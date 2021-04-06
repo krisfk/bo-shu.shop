@@ -85,10 +85,10 @@ with others.
 
 .menu li {
     display: inline-block;
+    margin: 0 10px;
 }
 
 .menu li a {
     color: #7f7f7f;
     text-decoration: none;
-    margin: 0 10px;
 }
