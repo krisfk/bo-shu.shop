@@ -51,13 +51,15 @@
             <a href="#" class="logo-a mt-2 d-inline-block"><img
                     src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt=""></a>
 
-            <table class="float-end">
+            <table class="float-end mt-2">
                 <tr>
                     <td><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
+                        $0.00
                     </td>
                     <td><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/member-icon.png';?>" alt="">
+                        會員登入
                     </td>
                     <td><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/search-icon.png';?>" alt="">
