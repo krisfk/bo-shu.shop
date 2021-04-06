@@ -62,3 +62,7 @@ with others.
 .top-bar-right-section {
     background: #95b5df;
 }
+
+.top-bar-section {
+    height: 14px;
+}
