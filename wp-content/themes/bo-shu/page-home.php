@@ -27,11 +27,11 @@ get_header();
 
         <div class="row">
 
-            <div class="col-3">
+            <div class="col-3 g-0">
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo2.jpg" alt="">
             </div>
 
-            <div class="col-9 pink-blue">
+            <div class="col-9 g-0 pink-blue">
                 fdsf
             </div>
         </div>
