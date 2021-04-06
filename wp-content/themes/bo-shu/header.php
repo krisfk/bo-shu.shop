@@ -53,11 +53,14 @@
 
             <table>
                 <tr>
-                    <td><img src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
+                    <td><img class="e-com-icon"
+                            src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
                     </td>
-                    <td><img src="<?php echo get_template_directory_uri().'/assets/images/member-icon.png';?>" alt="">
+                    <td><img class="e-com-icon"
+                            src="<?php echo get_template_directory_uri().'/assets/images/member-icon.png';?>" alt="">
                     </td>
-                    <td><img src="<?php echo get_template_directory_uri().'/assets/images/search-icon.png';?>" alt="">
+                    <td><img class="e-com-icon"
+                            src="<?php echo get_template_directory_uri().'/assets/images/search-icon.png';?>" alt="">
                     </td>
 
                     <td>lang icon</td>
