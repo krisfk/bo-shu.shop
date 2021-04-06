@@ -25,7 +25,7 @@ get_header();
         <div class="slick-banner-div mt-4"></div>
 
 
-        <div class="row">
+        <div class="row g-0">
 
             <div class="col-3">
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo2.jpg" alt="">
