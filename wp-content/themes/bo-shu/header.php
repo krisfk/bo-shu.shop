@@ -45,6 +45,12 @@
             </div>
         </div>
 
+        <div class="container">
+
+            <img src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt="">
+
+        </div>
+
     </header><!-- #site-header -->
 
     <?php
