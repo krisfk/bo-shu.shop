@@ -79,6 +79,8 @@ with others.
     font-size: 13px;
 }
 
+.menu {}
+
 .menu li {
     display: inline-block;
 }
