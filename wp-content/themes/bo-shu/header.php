@@ -53,15 +53,15 @@
 
             <table class="float-end mt-2 e-com-icon-links">
                 <tr>
-                    <td><img class="e-com-icon"
+                    <td class="pr-3"><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
                         $0.00
                     </td>
-                    <td><img class="e-com-icon"
+                    <td class="pr-3"><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/member-icon.png';?>" alt="">
                         會員登入
                     </td>
-                    <td><img class="e-com-icon"
+                    <td class="pr-3"><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/search-icon.png';?>" alt="">
                     </td>
 
