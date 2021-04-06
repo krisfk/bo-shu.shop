@@ -19,6 +19,12 @@ get_header();
 
 <main id="site-content" role="main">
 
+
+    <div class="container">
+
+        <div>banner</div>
+
+    </div>
 </main><!-- #site-content -->
 
 <?php //get_template_part( 'template-parts/footer-menus-widgets' ); ?>
