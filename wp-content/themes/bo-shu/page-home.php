@@ -24,7 +24,18 @@ get_header();
 
         <div class="slick-banner-div mt-4"></div>
 
+
+        <div>
+
+            <img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo2.jpg" alt="">
+            <div class="pink-blue">
+                fdsf
+            </div>
+        </div>
+
     </div>
+
+
 </main><!-- #site-content -->
 
 <?php //get_template_part( 'template-parts/footer-menus-widgets' ); ?>
