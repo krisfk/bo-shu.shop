@@ -25,10 +25,12 @@ get_header();
         <div class="slick-banner-div mt-4"></div>
 
 
-        <div>
+        <div class="row">
 
-            <img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo2.jpg" alt="">
-            <div class="pink-blue">
+            <div class="col">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo2.jpg" alt="">
+            </div>
+            <div class="col pink-blue">
                 fdsf
             </div>
         </div>
