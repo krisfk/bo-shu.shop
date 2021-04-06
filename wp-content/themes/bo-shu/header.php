@@ -51,6 +51,17 @@
             <a href="#" class="logo-a mt-2 d-inline-block"><img
                     src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt=""></a>
 
+            <table>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                    <td></td>
+
+                </tr>
+            </table>
+
 
         </div>
 
