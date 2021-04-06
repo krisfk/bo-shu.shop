@@ -39,8 +39,10 @@
 
 
         <div class="top-bar">
-            <div class="w-50 d-inline-block">1</div>
-            <div class="w-50 d-inline-block">2</div>
+            <div class="row">
+                <div class="col">1</div>
+                <div class="col">2</div>
+            </div>
         </div>
 
     </header><!-- #site-header -->
