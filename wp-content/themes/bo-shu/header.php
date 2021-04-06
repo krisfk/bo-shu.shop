@@ -33,9 +33,9 @@
 
     <header id="site-header" class="header-footer-group" role="banner">
 
-        test
+
     </header><!-- #site-header -->
 
     <?php
 		// Output the menu modal.
-		get_template_part( 'template-parts/modal-menu' );
+		// get_template_part( 'template-parts/modal-menu' );
