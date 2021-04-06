@@ -48,7 +48,7 @@
         <div class="container">
 
 
-            <a href="#" class="logo-a mt-2"><img
+            <a href="#" class="logo-a mt-2 d-inline-block"><img
                     src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt=""></a>
 
 
