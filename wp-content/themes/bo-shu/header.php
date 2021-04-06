@@ -40,8 +40,8 @@
 
         <div class="top-bar">
             <div class="row">
-                <div class="col g-0 top-bar-left-section">1</div>
-                <div class="col g-0 top-bar-right-section">2</div>
+                <div class="col g-0 top-bar-left-section"></div>
+                <div class="col g-0 top-bar-right-section"></div>
             </div>
         </div>
 
