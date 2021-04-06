@@ -48,8 +48,8 @@
         <div class="container">
 
 
-            <a href="#" class="logo-a"><img src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>"
-                    alt=""></a>
+            <a href="#" class="logo-a mt-2"><img
+                    src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt=""></a>
 
 
         </div>
