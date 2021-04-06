@@ -22,7 +22,7 @@ get_header();
 
     <div class="container">
 
-        <div>banner</div>
+        <div class="slick-banner-div"></div>
 
     </div>
 </main><!-- #site-content -->
