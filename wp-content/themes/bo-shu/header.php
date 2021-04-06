@@ -68,6 +68,13 @@
                     <td>lang icon</td>
 
                 </tr>
+                <tr>
+                    <td colspan="3">Worldwide shipping</td>
+                </tr>
+                <tr>
+                    <td colspan="3">港澳地區滿$500包運</td>
+                </tr>
+
             </table>
 
 
