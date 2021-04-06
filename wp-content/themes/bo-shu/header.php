@@ -47,7 +47,10 @@
 
         <div class="container">
 
-            <img src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt="">
+
+            <a href="#" class="logo-a"><img src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>"
+                    alt=""></a>
+
 
         </div>
 
