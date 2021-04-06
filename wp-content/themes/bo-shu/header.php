@@ -77,10 +77,15 @@
 
             </table>
 
-            <div class="menu">
-
-                fdsf
-            </div>
+            <ul class="menu">
+                <li><a href="#">現貨產品</a></li>
+                <li><a href="#">訂製產品</a></li>
+                <li><a href="#">布款選擇</a></li>
+                <li><a href="#">圖片庫</a></li>
+                <li><a href="#">最新資訊</a></li>
+                <li><a href="#">關於我們</a></li>
+                <li><a href="#">VIP會員計劃</a></li>
+            </ul>
 
 
         </div>

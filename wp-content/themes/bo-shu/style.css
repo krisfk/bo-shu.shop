@@ -78,3 +78,7 @@ with others.
 .e-com-icon-links {
     font-size: 13px;
 }
+
+.menu li {
+    display: inline-block;
+}
