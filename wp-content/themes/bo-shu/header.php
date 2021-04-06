@@ -39,7 +39,8 @@
 
 
         <div class="top-bar">
-            <div></div>
+            <div class="w-50"></div>
+            <div class="w-50"></div>
         </div>
 
     </header><!-- #site-header -->
