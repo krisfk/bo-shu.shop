@@ -51,7 +51,7 @@
             <a href="#" class="logo-a mt-2 d-inline-block"><img
                     src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt=""></a>
 
-            <table class="float-end mt-2 e-com-icon-links">
+            <table class="float-end mt-3 e-com-icon-links">
                 <tr>
                     <td class="pe-2"><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
