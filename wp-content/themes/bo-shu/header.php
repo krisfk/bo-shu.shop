@@ -69,10 +69,10 @@
 
                 </tr>
                 <tr>
-                    <td colspan="3" class="text-right">Worldwide shipping</td>
+                    <td colspan="4" class="text-right">Worldwide shipping</td>
                 </tr>
                 <tr>
-                    <td colspan="3" class="text-right">港澳地區滿$500包運</td>
+                    <td colspan="4" class="text-right">港澳地區滿$500包運</td>
                 </tr>
 
             </table>
