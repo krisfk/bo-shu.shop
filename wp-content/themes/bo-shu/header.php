@@ -53,11 +53,14 @@
 
             <table>
                 <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td><img src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
+                    </td>
+                    <td><img src="<?php echo get_template_directory_uri().'/assets/images/member-icon.png';?>" alt="">
+                    </td>
+                    <td><img src="<?php echo get_template_directory_uri().'/assets/images/search-icon.png';?>" alt="">
+                    </td>
 
-                    <td></td>
+                    <td>lang icon</td>
 
                 </tr>
             </table>
