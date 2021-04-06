@@ -79,8 +79,14 @@ with others.
     font-size: 13px;
 }
 
-.menu {}
+.menu {
+    text-align: center;
+}
 
 .menu li {
     display: inline-block;
+}
+
+.menu li a {
+    color: #7f7f7f;
 }
