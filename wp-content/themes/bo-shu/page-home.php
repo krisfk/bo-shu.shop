@@ -19,7 +19,6 @@ get_header();
 
 <main id="site-content" role="main">
 
-    test
 </main><!-- #site-content -->
 
 <?php //get_template_part( 'template-parts/footer-menus-widgets' ); ?>
