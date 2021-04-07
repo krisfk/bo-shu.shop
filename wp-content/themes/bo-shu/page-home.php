@@ -118,28 +118,28 @@ get_header();
             <div class="col g-0">
                 <div class="text-center main-banners-txt mb-3">Marimekko collection</div>
 
-                <div class="position-relative  px-5">
+                <div class="position-relative ">
                     <div class="position-absolute w-100 h-100">
                         <div class="position-absolute learn-more-btn-wrapper w-100 text-center">
                             <a href="#" class="front-page-btn">Learn more</a>
                         </div>
                     </div>
 
-                    <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
+                    <img class="w-100 px-5" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
                 </div>
 
             </div>
             <div class="col g-0">
                 <div class="text-center main-banners-txt mb-3">Home collection</div>
 
-                <div class="position-relative px-5">
+                <div class="position-relative ">
                     <div class="position-absolute w-100 h-100">
                         <div class="position-absolute learn-more-btn-wrapper w-100 text-center">
                             <a href="#" class="front-page-btn">Learn more</a>
                         </div>
                     </div>
 
-                    <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo6.jpg" alt="">
+                    <img class="w-100 px-5" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo6.jpg" alt="">
                 </div>
 
             </div>
