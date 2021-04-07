@@ -116,12 +116,12 @@ get_header();
         <div class="row mt-5">
 
             <div class="col">
-                <div class="text-center main-banners-txt">Marimekko collection</div>
+                <div class="text-center main-banners-txt mb-4">Marimekko collection</div>
 
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
             </div>
             <div class="col">
-                <div class="text-center main-banners-txt">Home collection</div>
+                <div class="text-center main-banners-txt mb-4">Home collection</div>
 
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo6.jpg" alt="">
             </div>
