@@ -120,7 +120,7 @@ get_header();
 
                 <div class="position-relative">
                     <div class="position-absolute w-100 h-100">
-                        <div>fdsf</div>
+                        <div class="position-absolute bottom w-100">fdsf</div>
                     </div>
 
                     <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
