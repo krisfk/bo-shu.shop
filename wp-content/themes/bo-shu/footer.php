@@ -19,9 +19,9 @@
         <div class="container">
 
 
-            <ul class="p-0">
+            <ul class="p-0 d-table">
 
-                <li>
+                <li class="float-start">
                     <div class="pt-5 text-light d-inline-block">
 
                         <div>Subscribe now <br> 第一時間按收布薯的最新消息和獨家優惠!</div>
@@ -52,7 +52,7 @@
 
                     </div>
                 </li>
-                <li>
+                <li class="float-end">
                     <div class=" footer-menu-div mt-5">
                         <ul>
                             <li>
