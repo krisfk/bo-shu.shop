@@ -18,7 +18,7 @@
     <div class=" pink-orange">
         <div class="container">
 
-            <div class="pt-5 text-light">
+            <div class="pt-5 text-light d-inline-block">
 
                 <div>Subscribe now <br> 第一時間按收布薯的最新消息和獨家優惠!</div>
 
@@ -45,7 +45,19 @@
 
             </div>
 
-            <div class="float-end">VIP會員計劃</div>
+            <div class="float-end">
+                <ul>
+                    <li>
+                        <a href=""> VIP會員計劃</a>
+                    </li>
+                    <li> <a href="">FAQ</a></li>
+                    <li> <a href="">送貨與退貨</a></li>
+                    <li> <a href="">洗滌及保養指引</a></li>
+                    <li> <a href="">聯絡我們</a></li>
+                    <li> <a href="">關於我們</a></li>
+                </ul>
+
+            </div>
         </div>
 
     </div>
