@@ -80,6 +80,7 @@
                         src="<?php echo get_template_directory_uri().'/assets/images/visa-icon.png';?>" alt="">
                     <img class="payment-icon"
                         src="<?php echo get_template_directory_uri().'/assets/images/payme-icon.png';?>" alt="">
+                    <div class="d-inline-block">lang icon</div>
                 </div>
             </div>
 
