@@ -185,6 +185,8 @@ h3.home-color-heading {
 }
 
 .slick-prev.slick-arrow {
+    background: url(assets/images/left-arrow.png) #a5a5a5 no-repeat center center;
+    background-size: 50% auto;
     position: absolute;
     left: -50px;
     height: 100%;
