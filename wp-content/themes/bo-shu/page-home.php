@@ -37,7 +37,7 @@ get_header();
 
                     <div class="d-table-cell align-middle">
                         <div class="text-center text-light main-banners-txt">
-                            <h2 class="mb-3">訂製產品</h2>
+                            <h2 class="mb-4">訂製產品</h2>
                             厭倦了大眾化或倒模式袋款？ <br>
                             布薯提供個人化產品訂製服務<br>
                             由布款選擇，內外細節<br>
