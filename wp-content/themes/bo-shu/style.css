@@ -155,6 +155,10 @@ h3.home-color-heading {
     bottom: 30px;
 }
 
+.latest-products-div {
+    padding: 0;
+}
+
 .latest-products-div li {
     position: relative;
     padding: 0 10px;
