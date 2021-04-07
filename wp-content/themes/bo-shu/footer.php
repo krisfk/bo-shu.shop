@@ -15,7 +15,7 @@
 <footer id="site-footer" role="contentinfo" class="header-footer-group">
 
 
-    <div class="container pink-orange">fdsa</div>
+    <div class=" pink-orange">fdsa</div>
 </footer><!-- #site-footer -->
 
 <?php wp_footer(); ?>
