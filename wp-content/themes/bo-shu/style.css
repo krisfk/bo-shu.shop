@@ -144,3 +144,7 @@ h3.home-color-heading {
     color: #666766;
     text-decoration: none;
 }
+
+.learn-more-btn-wrapper {
+    bottom: 30px;
+}
