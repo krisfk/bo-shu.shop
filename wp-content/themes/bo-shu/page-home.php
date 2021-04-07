@@ -33,19 +33,13 @@ get_header();
 
             <div class="col-4 pink-blue ju">
 
-                <div class="row">
-                    <div class="col text-center text-light
-
-">
-                        <div>
-                            <h2>訂製產品</h2>
-                            厭倦了大眾化或倒模式袋款？ <br>
-                            布薯提供個人化產品訂製服務<br>
-                            由布款選擇，內外細節<br>
-                            都可根據你的個人需要及喜好訂製<br>
-                            製作出只屬於你的獨一無二產品
-                        </div>
-                    </div>
+                <div>
+                    <h2>訂製產品</h2>
+                    厭倦了大眾化或倒模式袋款？ <br>
+                    布薯提供個人化產品訂製服務<br>
+                    由布款選擇，內外細節<br>
+                    都可根據你的個人需要及喜好訂製<br>
+                    製作出只屬於你的獨一無二產品
                 </div>
             </div>
         </div>
