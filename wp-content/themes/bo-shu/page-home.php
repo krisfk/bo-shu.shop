@@ -33,8 +33,8 @@ get_header();
 
             <div class="col-4 pink-blue ju">
 
-                <div>
-                    <div class="text-center text-light
+                <div class="row">
+                    <div class="col text-center text-light
 
 ">
                         <h2>訂製產品</h2>
