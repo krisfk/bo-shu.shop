@@ -18,48 +18,61 @@
     <div class=" pink-orange">
         <div class="container">
 
-            <div class="pt-5 text-light d-inline-block">
 
-                <div>Subscribe now <br> 第一時間按收布薯的最新消息和獨家優惠!</div>
+            <ul>
 
+                <li>
+                    <div class="pt-5 text-light d-inline-block">
 
-                <div class="subscribe-form-div mt-3">
-                    <input type="text" class="float-start m-0 form-text border-0 subscribe-input"
-                        placeholder="Email address...">
-                    <a href="#" class="subscribe-btn btn">Subscribe</a>
-                </div>
+                        <div>Subscribe now <br> 第一時間按收布薯的最新消息和獨家優惠!</div>
 
 
-                <div>
-                    <a href="#">
-                        <img class="sns-icon"
-                            src="<?php echo get_template_directory_uri().'/assets/images/fb-icon.png';?>" alt=""></a>
-                    <a href="#">
-                        <img class="sns-icon"
-                            src="<?php echo get_template_directory_uri().'/assets/images/ig-icon.png';?>" alt=""></a>
-                    <a href="#">
-                        <img class="sns-icon"
-                            src="<?php echo get_template_directory_uri().'/assets/images/wts-icon.png';?>" alt=""></a>
+                        <div class="subscribe-form-div mt-3">
+                            <input type="text" class="float-start m-0 form-text border-0 subscribe-input"
+                                placeholder="Email address...">
+                            <a href="#" class="subscribe-btn btn">Subscribe</a>
+                        </div>
 
-                </div>
 
-            </div>
+                        <div>
+                            <a href="#">
+                                <img class="sns-icon"
+                                    src="<?php echo get_template_directory_uri().'/assets/images/fb-icon.png';?>"
+                                    alt=""></a>
+                            <a href="#">
+                                <img class="sns-icon"
+                                    src="<?php echo get_template_directory_uri().'/assets/images/ig-icon.png';?>"
+                                    alt=""></a>
+                            <a href="#">
+                                <img class="sns-icon"
+                                    src="<?php echo get_template_directory_uri().'/assets/images/wts-icon.png';?>"
+                                    alt=""></a>
 
-            <div class=" footer-menu-div mt-5">
-                <ul>
-                    <li>
-                        <a href=""> VIP會員計劃</a>
-                    </li>
-                    <li> <a href="">FAQ</a></li>
-                    <li> <a href="">送貨與退貨</a></li>
-                    <li> <a href="">洗滌及保養指引</a></li>
-                    <li> <a href="">聯絡我們</a></li>
-                    <li> <a href="">關於我們</a></li>
-                </ul>
+                        </div>
 
-            </div>
+                    </div>
+                </li>
+                <li>
+                    <div class=" footer-menu-div mt-5">
+                        <ul>
+                            <li>
+                                <a href=""> VIP會員計劃</a>
+                            </li>
+                            <li> <a href="">FAQ</a></li>
+                            <li> <a href="">送貨與退貨</a></li>
+                            <li> <a href="">洗滌及保養指引</a></li>
+                            <li> <a href="">聯絡我們</a></li>
+                            <li> <a href="">關於我們</a></li>
+                        </ul>
 
-            <div>fdsa</div>
+                    </div>
+                </li>
+            </ul>
+
+
+
+
+            <!-- <div>fdsa</div> -->
         </div>
 
     </div>
