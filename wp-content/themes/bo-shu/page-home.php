@@ -57,7 +57,7 @@ get_header();
 
         <div class="row g-0 mt-5">
 
-            <div class="col-4 pink-blue ">
+            <div class="col-4 pink-orange ">
 
                 <div class="d-table w-100 h-100">
 
