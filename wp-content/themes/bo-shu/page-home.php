@@ -33,7 +33,7 @@ get_header();
 
             <div class="col-4 pink-blue ju">
 
-                <div class="d-table-cell">
+                <div>
                     <div class="text-center text-light
 
 ">
