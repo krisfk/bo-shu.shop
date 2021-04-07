@@ -119,8 +119,7 @@ get_header();
                 <div class="text-center main-banners-txt mb-3">Marimekko collection</div>
 
                 <div class="position-absolute w-100 h-100">
-
-                    d
+                    <div>fdsf</div>
                 </div>
 
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
