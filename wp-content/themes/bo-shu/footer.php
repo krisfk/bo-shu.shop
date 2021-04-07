@@ -45,7 +45,7 @@
 
             </div>
 
-            <div class="float-end">
+            <div class="float-end footer-menu-div">
                 <ul>
                     <li>
                         <a href=""> VIP會員計劃</a>

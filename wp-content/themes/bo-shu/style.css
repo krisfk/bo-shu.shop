@@ -234,3 +234,16 @@ h3.home-color-heading {
 .sns-icon {
     height: 22px;
 }
+
+.footer-menu-div ul {
+    padding: 0;
+}
+
+.footer-menu-div ul li {
+    list-style-type: none;
+}
+
+.footer-menu-div ul li a {
+    color: white;
+    text-decoration: none;
+}
