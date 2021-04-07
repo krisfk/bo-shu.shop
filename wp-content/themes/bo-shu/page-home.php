@@ -132,6 +132,18 @@ get_header();
             fdsa
         </div>
 
+        <h3 class="home-color-heading pink-orange text-light mt-5">Lastest news</h3>
+        <div class="latest-products-div">
+            <ul>
+                <li><a href="#">Multi-function pouch 使用介紹</a></li>
+                <li><a href="#">木口金袋選用手冊</a></li>
+                <li><a href="#">Marimekko 懶人包</a></li>
+            </ul>
+
+
+        </div>
+
+
 
     </div>
 
