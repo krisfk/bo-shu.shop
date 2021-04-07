@@ -107,5 +107,6 @@ with others.
     display: inline-block;
     border: 1px solid #fff;
     color: #fff;
+    text-decoration: none;
     padding: 5px 10px;
 }
