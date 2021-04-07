@@ -54,6 +54,36 @@ get_header();
             </div>
         </div>
 
+
+        <div class="row g-0 mt-3">
+
+            <div class="col-8">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
+            </div>
+
+            <div class="col-4 pink-blue ">
+
+                <div class="d-table w-100 h-100">
+
+                    <div class="d-table-cell align-middle">
+                        <div class="text-center text-light main-banners-txt">
+                            <h2 class="mb-4">訂製產品</h2>
+                            厭倦了大眾化或倒模式袋款？ <br>
+                            布薯提供個人化產品訂製服務<br>
+                            由布款選擇，內外細節<br>
+                            都可根據你的個人需要及喜好訂製<br>
+                            製作出只屬於你的獨一無二產品
+                        </div>
+
+                        <div class="text-center  mt-5">
+                            <a class="front-page-btn ml-auto mr-auto">Get inspired</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
     </div>
 
 
