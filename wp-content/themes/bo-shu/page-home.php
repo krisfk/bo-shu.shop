@@ -96,10 +96,12 @@ get_header();
 
                     <div class="d-table-cell align-middle">
                         <div class="text-center text-light main-banners-txt">
-                            <h2 class="mb-4">現貨產品</h2>
-                            想馬上得到心頭好 <br>
-                            布薯精選現貨產品令你不用再苦惱!<br>
-                            所有現貨產品均為限量製作
+                            <h2 class="mb-4">布料售賣</h2>
+                            為你搜羅世界各地精選布款 <br>
+                            Marimekko<br>
+                            SOU SOU<br>
+                            Echino<br>
+                            及大量日本布款
                         </div>
 
                         <div class="text-center  mt-5">
