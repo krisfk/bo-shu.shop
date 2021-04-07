@@ -146,7 +146,7 @@ get_header();
         </div>
 
         <h3 class="home-color-heading pink-orange text-light mt-5">Latest products</h3>
-        <ul class="latest-products-div">
+        <ul class="latest-products-div mt-4">
             <li><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo7.jpg" alt=""></li>
             <li><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo8.jpg" alt=""></li>
             <li><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></li>
