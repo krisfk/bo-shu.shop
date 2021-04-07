@@ -31,8 +31,12 @@ get_header();
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
             </div>
 
-            <div class="col-4 pink-blue ju">
+            <div class="col-4 pink-blue ">
 
+                <div class="d-table w-100 h-100">
+
+                    <div class="d-table-cell"></div>
+                </div>
                 <div class="text-center text-light">
                     <h2>訂製產品</h2>
                     厭倦了大眾化或倒模式袋款？ <br>
