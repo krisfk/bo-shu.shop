@@ -115,14 +115,17 @@ get_header();
 
         <div class="row mt-5 g-0">
 
-            <div class="col position-relative g-0">
+            <div class="col g-0">
                 <div class="text-center main-banners-txt mb-3">Marimekko collection</div>
 
-                <div class="position-absolute w-100 h-100">
-                    <div>fdsf</div>
+                <div class="position-relative">
+                    <div class="position-absolute w-100 h-100">
+                        <div>fdsf</div>
+                    </div>
+
+                    <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
                 </div>
 
-                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
             </div>
             <div class="col  g-0">
                 <div class="text-center main-banners-txt mb-3">Home collection</div>
