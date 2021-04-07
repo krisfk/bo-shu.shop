@@ -72,6 +72,14 @@
 
                 &copy; Boshu since 2018 <br>
                 Made in Hong Kong
+
+                <img class="payment-icon"
+                    src="<?php echo get_template_directory_uri().'/assets/images/mastercard-icon.png';?>" alt="">
+                <img class="payment-icon"
+                    src="<?php echo get_template_directory_uri().'/assets/images/visa-icon.png';?>" alt="">
+                <img class="payment-icon"
+                    src="<?php echo get_template_directory_uri().'/assets/images/payme-icon.png';?>" alt="">
+
             </div>
 
 
