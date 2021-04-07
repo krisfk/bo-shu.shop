@@ -127,7 +127,8 @@ h3.home-color-heading {
     padding: 5px 15px;
     margin: 0 auto;
     display: table;
-    min-width: 100px;
+    min-width: 200px;
+    text-align: center;
 }
 
 .latest-news-div ul li {
