@@ -55,14 +55,6 @@ with others.
 /*	0. CSS Reset
 /* -------------------------------------------------------------------------- */
 
-.top-bar-left-section {
-    background: #f4c285;
-}
-
-.top-bar-right-section {
-    background: #95b5df;
-}
-
 .top-bar-section {
     height: 15px;
 }
@@ -101,6 +93,10 @@ with others.
 
 .pink-blue {
     background: #95b5df;
+}
+
+.pink-orange {
+    background: #f4c285;
 }
 
 .front-page-btn {
