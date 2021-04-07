@@ -172,7 +172,7 @@ h3.home-color-heading {
 
 .slick-next.slick-arrow {
     position: absolute;
-    right: 0;
+    right: -50px;
     height: 100%;
     top: 0;
     background: #a5a5a5;
@@ -185,7 +185,7 @@ h3.home-color-heading {
 
 .slick-prev.slick-arrow {
     position: absolute;
-    left: 0;
+    left: -50px;
     height: 100%;
     top: 0;
     background: #a5a5a5;
