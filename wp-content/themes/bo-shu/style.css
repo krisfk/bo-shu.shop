@@ -111,7 +111,8 @@ with others.
     font-size: 20px;
 }
 
-.home-color-heading {
+h3.home-color-heading {
     display: inline-block;
     border-radius: 10px;
+    font-size: 20px;
 }
