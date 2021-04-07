@@ -55,6 +55,10 @@ with others.
 /*	0. CSS Reset
 /* -------------------------------------------------------------------------- */
 
+body {
+    color: #666766;
+}
+
 .top-bar-section {
     height: 15px;
 }
@@ -130,3 +134,5 @@ h3.home-color-heading {
     text-align: center;
     padding: 0;
 }
+
+.latest-news-div ul li a {}
