@@ -147,9 +147,10 @@ get_header();
 
         <h3 class="home-color-heading pink-orange text-light mt-5">Latest products</h3>
         <ul class="latest-products-div mt-4">
-            <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo7.jpg" alt=""></a>
-            <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo8.jpg" alt=""></a>
-            <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a>
+
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo7.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo8.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
 
 
         </ul>

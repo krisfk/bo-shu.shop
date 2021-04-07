@@ -155,12 +155,12 @@ h3.home-color-heading {
     bottom: 30px;
 }
 
-.latest-products-div a {
+.latest-products-div li {
     position: relative;
 }
 
 .latest-products-div a:focus {}
 
-.latest-products-div a img {
+.latest-products-div li img {
     width: 100%;
 }
