@@ -27,6 +27,9 @@
                     <input type="text" class="form-text" placeholder="Email address...">
                     <a href="#" class="subscribe-btn">Subscribe</a>
                 </div>
+                <br><br>
+
+                fdsf
             </div>
         </div>
 
