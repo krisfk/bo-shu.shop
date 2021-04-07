@@ -33,7 +33,9 @@ get_header();
 
             <div class="col-4 pink-blue ju">
 
-                <div class="text-center color-white">
+                <div class="text-center text-light
+
+">
                     <h2>訂製產品</h2>
                     厭倦了大眾化或倒模式袋款？ <br>
                     布薯提供個人化產品訂製服務<br>
