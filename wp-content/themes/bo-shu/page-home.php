@@ -44,6 +44,8 @@ get_header();
                             都可根據你的個人需要及喜好訂製<br>
                             製作出只屬於你的獨一無二產品
                         </div>
+
+                        <a href="btn">Get inspired</a>
                     </div>
                 </div>
 
