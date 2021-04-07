@@ -59,6 +59,10 @@ body {
     color: #666766;
 }
 
+input:focus {
+    outline: none;
+}
+
 a:focus {
     outline: none;
 }
