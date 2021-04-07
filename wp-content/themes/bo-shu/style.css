@@ -199,10 +199,14 @@ h3.home-color-heading {
 }
 
 .subscribe-btn {
-    color: #95b5df;
+    color: #95b5df !important;
     height: 23px;
     text-decoration: none;
-    background: #fff;
+    background: #fff !important;
+    padding: 0 10px !important;
+    font-size: 14px !important;
+    border-radius: 0px !important;
+    border: none !important;
 }
 
 .subscribe-form-div {}
