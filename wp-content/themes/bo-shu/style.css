@@ -135,4 +135,7 @@ h3.home-color-heading {
     padding: 0;
 }
 
-.latest-news-div ul li a {}
+.latest-news-div ul li a {
+    color: #666766;
+    text-decoration: none;
+}
