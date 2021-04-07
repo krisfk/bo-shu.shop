@@ -225,3 +225,7 @@ h3.home-color-heading {
     float: left;
     color: #fff !important;
 }
+
+.subscribe-input::placeholder {
+    color: #fff !important;
+}
