@@ -59,6 +59,10 @@ body {
     color: #666766;
 }
 
+a:focus {
+    outline: none;
+}
+
 .top-bar-section {
     height: 15px;
 }
@@ -154,6 +158,8 @@ h3.home-color-heading {
 .latest-products-div a {
     position: relative;
 }
+
+.latest-products-div a:focus {}
 
 .latest-products-div a img {
     width: 100%;
