@@ -18,10 +18,14 @@
     <div class=" pink-orange">
         <div class="container">
 
-            Subscribe now <br>
-            第一時間按收布薯的最新消息和獨家優惠!
+            <div class="float-start">
 
-            <input type="text" class="form-text">
+                <div>Subscribe now</div>
+                <div> 第一時間按收布薯的最新消息和獨家優惠!</div>
+
+
+                <input type="text" class="form-text">
+            </div>
         </div>
 
     </div>
