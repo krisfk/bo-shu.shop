@@ -177,3 +177,15 @@ h3.home-color-heading {
     width: 36px;
     text-indent: -100px;
 }
+
+.slick-prev.slick-arrow {
+    position: absolute;
+    left: 0;
+    height: 100%;
+    top: 0;
+    background: #a5a5a5;
+    border: none;
+    overflow: hidden;
+    width: 36px;
+    text-indent: -100px;
+}
