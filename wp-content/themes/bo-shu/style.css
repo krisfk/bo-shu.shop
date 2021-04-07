@@ -118,4 +118,5 @@ h3.home-color-heading {
     font-weight: normal;
     padding: 5px 10px;
     margin: 0 auto;
+    display: table;
 }
