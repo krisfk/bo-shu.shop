@@ -33,7 +33,9 @@ get_header();
 
             <div class="col-4 pink-blue ju">
 
-                <div class="align-self-center">fdsfs</div>
+                <div class="d-flex">
+                    <div class="align-self-center">fdsfs</div>
+                </div>
             </div>
         </div>
 
