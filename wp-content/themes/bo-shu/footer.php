@@ -18,7 +18,7 @@
     <div class=" pink-orange">
         <div class="container">
 
-            <div class="float-start">
+            <div class="">
 
                 <div>Subscribe now <br> 第一時間按收布薯的最新消息和獨家優惠!</div>
 
