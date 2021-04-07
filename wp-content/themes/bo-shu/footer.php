@@ -30,7 +30,13 @@
                 </div>
                 <br><br>
 
-                <img src="<?php echo get_template_directory_uri().'/assets/images/fb-icon.png';?>" alt="">
+                <img class="sns-icon" src="<?php echo get_template_directory_uri().'/assets/images/fb-icon.png';?>"
+                    alt="">
+                <img class="sns-icon" src="<?php echo get_template_directory_uri().'/assets/images/ig-icon.png';?>"
+                    alt="">
+                <img class="sns-icon" src="<?php echo get_template_directory_uri().'/assets/images/wts-icon.png';?>"
+                    alt="">
+
             </div>
         </div>
 
