@@ -16,7 +16,13 @@
 
 
     <div class=" pink-orange">
-        <div class="container">fdfds</div>
+        <div class="container">
+
+            Subscribe now <br>
+            第一時間按收布薯的最新消息和獨家優惠!
+
+            <input type="text" class="form-text">
+        </div>
 
     </div>
 </footer><!-- #site-footer -->
