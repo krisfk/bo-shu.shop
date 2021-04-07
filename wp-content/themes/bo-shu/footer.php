@@ -68,7 +68,11 @@
                     </div>
                 </li>
             </ul>
-            <div>fdas</div>
+            <div>
+
+                &copy; Boshu since 2018 <br>
+                Made in Hong Kong
+            </div>
 
 
 
