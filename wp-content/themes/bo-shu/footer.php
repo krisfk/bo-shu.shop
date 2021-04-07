@@ -68,7 +68,7 @@
                     </div>
                 </li>
             </ul>
-            <div>
+            <div class="text-light">
 
                 &copy; Boshu since 2018 <br>
                 Made in Hong Kong
