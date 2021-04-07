@@ -44,6 +44,8 @@
                 </div>
 
             </div>
+
+            <div class="float-end">VIP會員計劃</div>
         </div>
 
     </div>
