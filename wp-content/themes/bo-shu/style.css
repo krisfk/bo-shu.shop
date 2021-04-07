@@ -255,3 +255,9 @@ footer li {
 .payment-icon {
     height: 24px;
 }
+
+.payment-icon-list {
+    position: absolute;
+    top: 9px;
+    right: 0;
+}
