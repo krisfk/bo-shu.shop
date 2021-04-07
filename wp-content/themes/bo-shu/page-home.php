@@ -127,6 +127,11 @@ get_header();
             </div>
         </div>
 
+        <h3 class="home-color-heading pink-orange">Latest products</h3>
+        <div class="latest-products-div">
+            fdsa
+        </div>
+
 
     </div>
 

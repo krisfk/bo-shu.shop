@@ -110,3 +110,8 @@ with others.
 .main-banners-txt {
     font-size: 20px;
 }
+
+.home-color-heading {
+    display: inline-block;
+    border-radius: 10px;
+}
