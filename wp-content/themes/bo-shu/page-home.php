@@ -57,10 +57,6 @@ get_header();
 
         <div class="row g-0 mt-3">
 
-            <div class="col-8">
-                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
-            </div>
-
             <div class="col-4 pink-blue ">
 
                 <div class="d-table w-100 h-100">
@@ -82,6 +78,12 @@ get_header();
                 </div>
 
             </div>
+
+            <div class="col-8">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
+            </div>
+
+
         </div>
 
     </div>
