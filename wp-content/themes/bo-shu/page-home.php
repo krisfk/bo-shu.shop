@@ -132,7 +132,7 @@ get_header();
             fdsa
         </div>
 
-        <h3 class="home-color-heading pink-orange text-light mt-5">Lastest news</h3>
+        <h3 class="home-color-heading pink-blue text-light mt-5">Lastest news</h3>
         <div class="latest-news-div">
             <ul class="mt-3">
                 <li><a href="#">Multi-function pouch 使用介紹</a></li>
