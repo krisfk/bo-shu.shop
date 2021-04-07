@@ -24,7 +24,7 @@
 
 
                 <div class="subscribe-form-div">
-                    <input type="text" class="float-start form-text border-0 subscribe-input"
+                    <input type="text" class="float-start m-0 form-text border-0 subscribe-input"
                         placeholder="Email address...">
                     <a href="#" class="subscribe-btn btn">Subscribe</a>
                 </div>
