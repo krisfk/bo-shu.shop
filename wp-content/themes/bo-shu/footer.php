@@ -25,7 +25,7 @@
 
                 <div>
                     <input type="text" class="form-text" placeholder="Email address...">
-                    <a href="#" class="">Subscribe</a>
+                    <a href="#" class="subscribe-btn">Subscribe</a>
                 </div>
             </div>
         </div>

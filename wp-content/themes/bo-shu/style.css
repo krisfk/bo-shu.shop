@@ -197,3 +197,8 @@ h3.home-color-heading {
     z-index: 100;
     text-indent: -100px;
 }
+
+.subscribe-btn {
+    color: #95b5df;
+    text-decoration: none;
+}
