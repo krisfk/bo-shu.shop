@@ -168,6 +168,11 @@ get_header();
 
 </main><!-- #site-content -->
 
+
+
+<script type="text/javascript">
+$(function() {})
+</script>
 <?php //get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 
 <?php
