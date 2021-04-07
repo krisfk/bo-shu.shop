@@ -31,13 +31,13 @@
 
 
                 <div>
-                    <a href="">
+                    <a href="#">
                         <img class="sns-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/fb-icon.png';?>" alt=""></a>
-                    <a href="">
+                    <a href="#">
                         <img class="sns-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/ig-icon.png';?>" alt=""></a>
-                    <a href="">
+                    <a href="#">
                         <img class="sns-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/wts-icon.png';?>" alt=""></a>
 
