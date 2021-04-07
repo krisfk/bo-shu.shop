@@ -14,7 +14,8 @@
 ?>
 <footer id="site-footer" role="contentinfo" class="header-footer-group">
 
-    fds
+
+    <div class="container pink-orange">fdsa</div>
 </footer><!-- #site-footer -->
 
 <?php wp_footer(); ?>
