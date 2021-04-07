@@ -151,6 +151,8 @@ get_header();
             <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo7.jpg" alt=""></a> </li>
             <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo8.jpg" alt=""></a> </li>
             <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
 
 
         </ul>
