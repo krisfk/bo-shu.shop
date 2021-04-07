@@ -133,7 +133,7 @@ get_header();
         </div>
 
         <h3 class="home-color-heading pink-orange text-light mt-5">Lastest news</h3>
-        <div class="latest-products-div">
+        <div class="latest-news-div">
             <ul>
                 <li><a href="#">Multi-function pouch 使用介紹</a></li>
                 <li><a href="#">木口金袋選用手冊</a></li>

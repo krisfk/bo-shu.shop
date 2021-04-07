@@ -120,3 +120,12 @@ h3.home-color-heading {
     margin: 0 auto;
     display: table;
 }
+
+.latest-news-div ul li {
+    list-style-type: none;
+}
+
+.latest-news-div ul {
+    margin: 0;
+    padding: 0;
+}
