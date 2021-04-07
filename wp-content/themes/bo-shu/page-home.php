@@ -120,7 +120,9 @@ get_header();
 
                 <div class="position-relative">
                     <div class="position-absolute w-100 h-100">
-                        <div class="position-absolute bottom-0 w-100">fdsf</div>
+                        <div class="position-absolute bottom-0 w-100 text-center">
+                            <a href="#" class="learn-more-btn">Learn more</a>
+                        </div>
                     </div>
 
                     <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
