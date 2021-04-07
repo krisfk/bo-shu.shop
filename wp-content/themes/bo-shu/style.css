@@ -230,3 +230,7 @@ h3.home-color-heading {
     color: #fff !important;
     font-style: italic;
 }
+
+.sns-icon {
+    height: 22px;
+}
