@@ -247,3 +247,7 @@ h3.home-color-heading {
     color: white;
     text-decoration: none;
 }
+
+footer li {
+    list-style-type: none;
+}

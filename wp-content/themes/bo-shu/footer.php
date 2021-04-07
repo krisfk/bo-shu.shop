@@ -19,7 +19,7 @@
         <div class="container">
 
 
-            <ul>
+            <ul class="p-0">
 
                 <li>
                     <div class="pt-5 text-light d-inline-block">
