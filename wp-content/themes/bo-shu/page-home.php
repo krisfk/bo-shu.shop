@@ -63,16 +63,14 @@ get_header();
 
                     <div class="d-table-cell align-middle">
                         <div class="text-center text-light main-banners-txt">
-                            <h2 class="mb-4">訂製產品</h2>
-                            厭倦了大眾化或倒模式袋款？ <br>
-                            布薯提供個人化產品訂製服務<br>
-                            由布款選擇，內外細節<br>
-                            都可根據你的個人需要及喜好訂製<br>
-                            製作出只屬於你的獨一無二產品
+                            <h2 class="mb-4">現貨產品</h2>
+                            想馬上得到心頭好 <br>
+                            布薯精選現貨產品令你不用再苦惱!<br>
+                            所有現貨產品均為限量製作
                         </div>
 
                         <div class="text-center  mt-5">
-                            <a class="front-page-btn ml-auto mr-auto">Get inspired</a>
+                            <a class="front-page-btn ml-auto mr-auto">Explore</a>
                         </div>
                     </div>
                 </div>
