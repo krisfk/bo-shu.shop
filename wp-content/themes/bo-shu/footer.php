@@ -19,7 +19,7 @@
         <div class="container">
 
 
-            <ul class="p-0 d-table">
+            <ul class="p-0 d-table w-100">
 
                 <li class="float-start">
                     <div class="pt-5 text-light d-inline-block">
