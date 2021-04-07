@@ -28,7 +28,7 @@ get_header();
         <div class="row g-0">
 
             <div class="col-9">
-                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo2.jpg" alt="">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
             </div>
 
             <div class="col-3 pink-blue">
