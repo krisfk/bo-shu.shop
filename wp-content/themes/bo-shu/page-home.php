@@ -121,7 +121,7 @@ get_header();
                 <div class="position-relative">
                     <div class="position-absolute w-100 h-100">
                         <div class="position-absolute bottom-0 w-100 text-center">
-                            <a href="#" class="learn-more-btn">Learn more</a>
+                            <a href="#" class="front-page-btn">Learn more</a>
                         </div>
                     </div>
 
