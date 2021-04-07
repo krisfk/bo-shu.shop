@@ -23,7 +23,10 @@
                 <div>Subscribe now <br> 第一時間按收布薯的最新消息和獨家優惠!</div>
 
 
-                <input type="text" class="form-text">
+                <div>
+                    <input type="text" class="form-text" placeholder="Email address...">
+                    <a href="#" class="">Subscribe</a>
+                </div>
             </div>
         </div>
 
