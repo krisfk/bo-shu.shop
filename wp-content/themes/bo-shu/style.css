@@ -176,6 +176,7 @@ h3.home-color-heading {
     height: 100%;
     top: 0;
     background: url(assets/images/right-arrow.png) #a5a5a5 no-repeat center center;
+    background-size: 50% 50%;
     border: none;
     overflow: hidden;
     width: 36px;
