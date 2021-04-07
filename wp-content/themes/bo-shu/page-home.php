@@ -118,7 +118,7 @@ get_header();
             <div class="col g-0">
                 <div class="text-center main-banners-txt mb-3">Marimekko collection</div>
 
-                <div class="position-relative">
+                <div class="position-relative  px-5">
                     <div class="position-absolute w-100 h-100">
                         <div class="position-absolute learn-more-btn-wrapper w-100 text-center">
                             <a href="#" class="front-page-btn">Learn more</a>
@@ -130,9 +130,9 @@ get_header();
 
             </div>
             <div class="col g-0">
-                <div class="text-center main-banners-txt mb-3">Marimekko collection</div>
+                <div class="text-center main-banners-txt mb-3">Home collection</div>
 
-                <div class="position-relative">
+                <div class="position-relative px-5">
                     <div class="position-absolute w-100 h-100">
                         <div class="position-absolute learn-more-btn-wrapper w-100 text-center">
                             <a href="#" class="front-page-btn">Learn more</a>
