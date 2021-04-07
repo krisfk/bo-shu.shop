@@ -157,6 +157,7 @@ h3.home-color-heading {
 
 .latest-products-div li {
     position: relative;
+    padding: 0 10px;
 }
 
 .latest-products-div a:focus {}
