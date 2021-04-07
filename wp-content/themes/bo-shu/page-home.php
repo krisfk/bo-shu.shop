@@ -146,9 +146,13 @@ get_header();
         </div>
 
         <h3 class="home-color-heading pink-orange text-light mt-5">Latest products</h3>
-        <div class="latest-products-div">
-            fdsa
-        </div>
+        <ul class="latest-products-div">
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+
+
+        </ul>
 
         <h3 class="home-color-heading pink-blue text-light mt-5">Lastest news</h3>
         <div class="latest-news-div">
@@ -171,7 +175,15 @@ get_header();
 
 
 <script type="text/javascript">
-$(function() {})
+$(function() {
+    $('.latest-products-div').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+    });
+
+
+})
 </script>
 <?php //get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 
