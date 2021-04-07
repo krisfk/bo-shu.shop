@@ -28,7 +28,7 @@
                         placeholder="Email address...">
                     <a href="#" class="subscribe-btn btn">Subscribe</a>
                 </div>
-                <br><br>
+
 
                 <img class="sns-icon" src="<?php echo get_template_directory_uri().'/assets/images/fb-icon.png';?>"
                     alt="">
