@@ -251,3 +251,7 @@ h3.home-color-heading {
 footer li {
     list-style-type: none;
 }
+
+.payment-icon {
+    height: 24px;
+}
