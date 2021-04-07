@@ -45,7 +45,7 @@ get_header();
                             製作出只屬於你的獨一無二產品
                         </div>
 
-                        <a href="btn">Get inspired</a>
+                        <a href="front-page-btn">Get inspired</a>
                     </div>
                 </div>
 

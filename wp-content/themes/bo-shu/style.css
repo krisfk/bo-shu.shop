@@ -102,3 +102,9 @@ with others.
 .pink-blue {
     background: #95b5df;
 }
+
+.front-page-btn {
+    display: inline-block;
+    border: 1px solid #fff;
+    color: #fff;
+}
