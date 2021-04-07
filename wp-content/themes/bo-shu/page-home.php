@@ -116,9 +116,13 @@ get_header();
         <div class="row mt-5">
 
             <div class="col">
+                <div class="text-center">Marimekko collection</div>
+
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
             </div>
             <div class="col">
+                <div class="text-center">Home collection</div>
+
                 <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo6.jpg" alt="">
             </div>
         </div>
