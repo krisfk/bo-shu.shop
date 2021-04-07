@@ -228,4 +228,5 @@ h3.home-color-heading {
 
 .subscribe-input::placeholder {
     color: #fff !important;
+    font-style: italic;
 }
