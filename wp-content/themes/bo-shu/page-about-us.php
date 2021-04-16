@@ -79,6 +79,9 @@ get_header();
             每個袋款都經過我們無數次反覆試驗不同尺寸材料，<br>
             測試無數無數個樣本而誕生，務求為客人帶來最好品質及體驗。
 
+            <img class="boshu-logo" src="<?php echo get_template_directory_uri() .'/assets/images/boshu-logo.jpg';?>"
+                alt="">
+
 
 
         </div>
