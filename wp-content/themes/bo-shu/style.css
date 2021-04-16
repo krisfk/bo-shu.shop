@@ -311,6 +311,7 @@ footer li {
     display: table;
     margin: 0 auto;
     padding: 40px;
+    width: 830px;
 }
 
 .orange-bg {
@@ -338,6 +339,7 @@ footer li {
     display: table;
     margin: 0 auto;
     padding: 40px;
+    width: 830px;
 }
 
 .blue-bg {
@@ -353,3 +355,22 @@ footer li {
 .page-about-us .now-tv-img {
     height: 300px;
 }
+
+@media screen and (max-width: 1920px) {}
+
+@media screen and (max-width: 1200px) {}
+
+@media screen and (max-width: 991px) {
+    .blue-border {
+        width: 95%;
+    }
+    .orange-border {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 640px) {}
+
+@media screen and (max-width: 480px) {}
