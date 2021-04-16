@@ -270,6 +270,8 @@ footer li {
 .about-us-submenu {
     margin: 0;
     padding: 0;
+    display: table;
+    margin: 0 auto;
 }
 
 .about-us-submenu li {
