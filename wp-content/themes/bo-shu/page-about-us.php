@@ -23,7 +23,15 @@ get_header();
     <div class="container">
 
 
-        test
+        <ul class="about-us-submenu">
+
+            <li>
+                <a href="#">關於布薯</a>
+            </li>
+            <li>
+                <a href="#">品牌里程碑</a>
+            </li>
+        </ul>
 
 
 

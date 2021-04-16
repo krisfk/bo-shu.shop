@@ -266,3 +266,18 @@ footer li {
 #site-footer {
     margin: 100px 0 0 0;
 }
+
+.about-us-submenu {
+    margin: 0;
+    padding: 0;
+}
+
+.about-us-submenu li {
+    display: inline-block;
+}
+
+.about-us-submenu li a {
+    background: #93accc;
+    color: #fff;
+    padding: 5px 10px;
+}
