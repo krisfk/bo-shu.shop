@@ -349,3 +349,7 @@ footer li {
     max-width: 500px;
     width: 100%;
 }
+
+.page-about-us .now-tv-img {
+    height: 300px;
+}

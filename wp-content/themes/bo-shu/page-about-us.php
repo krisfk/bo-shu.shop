@@ -106,6 +106,34 @@ get_header();
         </div>
 
 
+        <div class="orange-border mt-5 text-center">
+
+            <div class="positive-relative milestone-year-wrapper">
+                <div class="orange-bg milestone-year">2020年</div>
+
+            </div>
+
+            對全世界都是十分艱難的一年。疫情初期，全香港遇上口罩荒， <br>
+            「布薯」推出口罩套贈送計劃，希望可以略盡棉力為有需要的香港人暫時解決口罩短決問題，<br>
+            一星期內送出超過過百個口罩套，接著推出以近乎成本價售出口罩套，<br>
+            短短2個月售出超過1500個，「布薯」2人連月來日以繼夜不停趕工，<br>
+            盡力在最短時間內幫助到不同類別人士，當中包括醫院員工，機場人員，殘障人士等等。<br><br>
+
+            2020年3月首次接受電視媒體 - Now TV訪問報道介紹我們的產品。
+
+
+            <div class="text-center mt-3">
+
+                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-1.jpg" alt="">
+                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-2.jpg" alt="">
+
+            </div>
+
+
+        </div>
+
+
+
 
 
 
