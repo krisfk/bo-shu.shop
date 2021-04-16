@@ -305,3 +305,7 @@ footer li {
     position: relative;
     top: -3px;
 }
+
+.orange-border {
+    border: 1px solid #f4c285;
+}
