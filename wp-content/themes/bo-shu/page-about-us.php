@@ -99,7 +99,7 @@ get_header();
 
             <div class="text-center mt-3">
 
-                <img src="https://bo-shu.shop/wp-content/uploads/2021/04/adc-bag.jpg" alt="">
+                <img class="adc-bag" src="https://bo-shu.shop/wp-content/uploads/2021/04/adc-bag.jpg" alt="">
             </div>
 
 

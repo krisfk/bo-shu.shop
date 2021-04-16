@@ -343,3 +343,8 @@ footer li {
     background: #93accc;
     color: #fff;
 }
+
+.page-about-us .adc-bag {
+    max-width: 500px;
+    width: 100%;
+}
