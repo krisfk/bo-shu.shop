@@ -26,17 +26,17 @@ get_header();
         <ul class="about-us-submenu mt-5">
 
             <li>
-                <a href="#">關於布薯</a>
+                <a href="#about-1">關於布薯</a>
             </li>
             <li>
-                <a href="#">品牌里程碑</a>
+                <a href="#about-2">品牌里程碑</a>
             </li>
         </ul>
 
 
         <img class="w-100  mt-5" src="https://bo-shu.shop/wp-content/uploads/2021/04/about-us-img-1.jpg" alt="">
 
-        <h2 class="mt-5">
+        <h2 class="mt-5" id="about-1">
             <img class="potato" src="<?php echo get_template_directory_uri() .'/assets/images/potato.png';?>" alt="">
             關於布薯 <img class="potato" src="<?php echo get_template_directory_uri() .'/assets/images/potato.png';?>"
                 alt="">
@@ -54,8 +54,8 @@ get_header();
             香港手工製作 ． 獨特 ． 個性化手袋品牌</div>
 
 
-        <h2 class="mt-5">
-            <img class="potato" src="<?php echo get_template_directory_uri() .'/assets/images/potato.png';?>" alt="">
+        <h2 class="mt-5" id="about-2">
+            <img class=" potato" src="<?php echo get_template_directory_uri() .'/assets/images/potato.png';?>" alt="">
             品牌里程碑 <img class="potato" src="<?php echo get_template_directory_uri() .'/assets/images/potato.png';?>"
                 alt="">
         </h2>
@@ -186,11 +186,7 @@ get_header();
 
 <script type="text/javascript">
 $(function() {
-    $('.latest-products-div').slick({
-        infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 3
-    });
+
 
 
 })
