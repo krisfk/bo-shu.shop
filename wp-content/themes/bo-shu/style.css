@@ -290,9 +290,18 @@ footer li {
     position: relative;
     text-align: center;
     background: #93accc;
+    color: #fff;
+    font-size: 25px;
+    max-width: 650px;
+    line-height: 40px;
+    width: 90%;
+    border-radius: 11px;
+    margin: 0 auto;
 }
 
 .page-about-us h2 .potato {
-    height: 35px;
+    height: 29px;
     color: #fff;
+    position: relative;
+    top: -3px;
 }
