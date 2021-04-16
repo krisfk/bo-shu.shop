@@ -312,3 +312,8 @@ footer li {
     margin: 0 auto;
     padding: 40px;
 }
+
+.orange-bg {
+    background: #f4c285;
+    color: #fff;
+}

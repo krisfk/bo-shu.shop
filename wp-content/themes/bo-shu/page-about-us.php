@@ -61,6 +61,8 @@ get_header();
         </h2>
 
         <div class="orange-border mt-3 text-center">
+
+            <div class="orange-bg year">2018年</div>
             2位香港女生一起閒聊著各品牌新推出的袋款，卻發現市面上袋類選擇雖多， <br>
             但卻總有一些細節不能滿足自己要求，突然一個興起便提出一起創辦一個品牌，<br>
             希望可以靠自己製作出真正屬於自己的袋，造就了「布薯」的誕生，<br>
