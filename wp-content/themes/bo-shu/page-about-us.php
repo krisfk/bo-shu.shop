@@ -135,6 +135,43 @@ get_header();
 
 
 
+        <div class="blue-border mt-5 text-center">
+
+            <div class="positive-relative milestone-year-wrapper">
+                <div class="blue-bg milestone-year">2021年</div>
+
+            </div>
+
+            「布薯」首次參與POP UP期間限定實體快閃店，
+            很高興受到URBAN28邀請，參與位於香港尖沙咀K11 Art Mall購物藝術館
+            為期3個月的POP UP快閃店。
+
+
+            <img src="https://bo-shu.shop/wp-content/uploads/2021/04/pop-up-1.jpg" alt="">
+            <img src="https://bo-shu.shop/wp-content/uploads/2021/04/pop-up-2.jpg" alt="">
+
+            首次推出自家設計布款，並計劃推出不同類型自家設計產品。
+
+
+            <img src="https://bo-shu.shop/wp-content/uploads/2021/04/pop-up-3.jpg" alt="">
+
+            期待「布薯」的路可以愈走愈遠。
+
+
+
+            <div class="text-center mt-3">
+
+                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-1.jpg" alt="">
+                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-2.jpg" alt="">
+
+            </div>
+
+
+        </div>
+
+
+
+
 
 
 
