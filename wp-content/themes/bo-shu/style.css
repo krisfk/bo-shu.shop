@@ -296,7 +296,7 @@ footer li {
     line-height: 40px;
     width: 90%;
     border-radius: 11px;
-    margin: 0 auto;
+    margin: 0 auto 40px auto;
 }
 
 .page-about-us h2 .potato {
@@ -323,4 +323,7 @@ footer li {
     padding: 5px 10px;
 }
 
-.milestone-year-wrapper {}
+.milestone-year-wrapper {
+    position: relative;
+    margin: -57px 0 25px 0;
+}
