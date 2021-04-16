@@ -289,10 +289,10 @@ footer li {
 .page-about-us h2 {
     position: relative;
     text-align: center;
+    background: #93accc;
 }
 
 .page-about-us h2 .potato {
     height: 35px;
-    background: #93accc;
     color: #fff;
 }
