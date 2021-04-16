@@ -131,7 +131,7 @@ get_header();
         </div>
 
 
-        <div class="orange-border mt-3 text-center">
+        <div class="orange-border mt-5 text-center">
 
             <div class="positive-relative milestone-year-wrapper">
                 <div class="orange-bg milestone-year">2018年</div>
