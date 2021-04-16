@@ -19,101 +19,176 @@ get_header();
 
 <main id="site-content" role="main">
 
-	<?php
 
-	$archive_title    = '';
-	$archive_subtitle = '';
+    <div class="container">
 
-	if ( is_search() ) {
-		global $wp_query;
+        <div class="slick-banner-div mt-4"></div>
 
-		$archive_title = sprintf(
-			'%1$s %2$s',
-			'<span class="color-accent">' . __( 'Search:', 'twentytwenty' ) . '</span>',
-			'&ldquo;' . get_search_query() . '&rdquo;'
-		);
 
-		if ( $wp_query->found_posts ) {
-			$archive_subtitle = sprintf(
-				/* translators: %s: Number of search results. */
-				_n(
-					'We found %s result for your search.',
-					'We found %s results for your search.',
-					$wp_query->found_posts,
-					'twentytwenty'
-				),
-				number_format_i18n( $wp_query->found_posts )
-			);
-		} else {
-			$archive_subtitle = __( 'We could not find any results for your search. You can give it another try through the search form below.', 'twentytwenty' );
-		}
-	} elseif ( is_archive() && ! have_posts() ) {
-		$archive_title = __( 'Nothing Found', 'twentytwenty' );
-	} elseif ( ! is_home() ) {
-		$archive_title    = get_the_archive_title();
-		$archive_subtitle = get_the_archive_description();
-	}
+        <div class="row g-0 mt-5">
 
-	if ( $archive_title || $archive_subtitle ) {
-		?>
+            <div class="col-8">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
+            </div>
 
-		<header class="archive-header has-text-align-center header-footer-group">
+            <div class="col-4 pink-blue ">
 
-			<div class="archive-header-inner section-inner medium">
+                <div class="d-table w-100 h-100">
 
-				<?php if ( $archive_title ) { ?>
-					<h1 class="archive-title"><?php echo wp_kses_post( $archive_title ); ?></h1>
-				<?php } ?>
+                    <div class="d-table-cell align-middle">
+                        <div class="text-center text-light main-banners-txt">
+                            <h2 class="mb-4">訂製產品</h2>
+                            厭倦了大眾化或倒模式袋款？ <br>
+                            布薯提供個人化產品訂製服務<br>
+                            由布款選擇，內外細節<br>
+                            都可根據你的個人需要及喜好訂製<br>
+                            製作出只屬於你的獨一無二產品
+                        </div>
 
-				<?php if ( $archive_subtitle ) { ?>
-					<div class="archive-subtitle section-inner thin max-percentage intro-text"><?php echo wp_kses_post( wpautop( $archive_subtitle ) ); ?></div>
-				<?php } ?>
+                        <div class="text-center  mt-5">
+                            <a class="front-page-btn ml-auto mr-auto">Get inspired</a>
+                        </div>
+                    </div>
+                </div>
 
-			</div><!-- .archive-header-inner -->
+            </div>
+        </div>
 
-		</header><!-- .archive-header -->
 
-		<?php
-	}
+        <div class="row g-0 mt-5">
 
-	if ( have_posts() ) {
+            <div class="col-4 pink-orange">
 
-		$i = 0;
+                <div class="d-table w-100 h-100">
 
-		while ( have_posts() ) {
-			$i++;
-			if ( $i > 1 ) {
-				echo '<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />';
-			}
-			the_post();
+                    <div class="d-table-cell align-middle">
+                        <div class="text-center text-light main-banners-txt">
+                            <h2 class="mb-4">現貨產品</h2>
+                            想馬上得到心頭好 <br>
+                            布薯精選現貨產品令你不用再苦惱!<br>
+                            所有現貨產品均為限量製作
+                        </div>
 
-			get_template_part( 'template-parts/content', get_post_type() );
+                        <div class="text-center  mt-5">
+                            <a class="front-page-btn ml-auto mr-auto">Explore</a>
+                        </div>
+                    </div>
+                </div>
 
-		}
-	} elseif ( is_search() ) {
-		?>
+            </div>
 
-		<div class="no-search-results-form section-inner thin">
+            <div class="col-8">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
+            </div>
 
-			<?php
-			get_search_form(
-				array(
-					'label' => __( 'search again', 'twentytwenty' ),
-				)
-			);
-			?>
 
-		</div><!-- .no-search-results -->
+        </div>
 
-		<?php
-	}
-	?>
+        <div class="row g-0 mt-5">
 
-	<?php get_template_part( 'template-parts/pagination' ); ?>
+            <div class="col-8">
+                <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/banner-temp-img.jpg" alt="">
+            </div>
+
+            <div class="col-4 pink-blue ">
+
+                <div class="d-table w-100 h-100">
+
+                    <div class="d-table-cell align-middle">
+                        <div class="text-center text-light main-banners-txt">
+                            <h2 class="mb-4">布料售賣</h2>
+                            為你搜羅世界各地精選布款 <br>
+                            Marimekko<br>
+                            SOU SOU<br>
+                            Echino<br>
+                            及大量日本布款
+                        </div>
+
+                        <div class="text-center  mt-5">
+                            <a class="front-page-btn ml-auto mr-auto">Explore</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row mt-5 g-0">
+
+            <div class="col g-0">
+                <div class="text-center main-banners-txt mb-3">Marimekko collection</div>
+
+                <div class="position-relative ">
+                    <div class="position-absolute w-100 h-100">
+                        <div class="position-absolute learn-more-btn-wrapper w-100 text-center">
+                            <a href="#" class="front-page-btn">Learn more</a>
+                        </div>
+                    </div>
+
+                    <img class="w-100 px-5" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo5.jpg" alt="">
+                </div>
+
+            </div>
+            <div class="col g-0">
+                <div class="text-center main-banners-txt mb-3">Home collection</div>
+
+                <div class="position-relative ">
+                    <div class="position-absolute w-100 h-100">
+                        <div class="position-absolute learn-more-btn-wrapper w-100 text-center">
+                            <a href="#" class="front-page-btn">Learn more</a>
+                        </div>
+                    </div>
+
+                    <img class="w-100 px-5" src="https://bo-shu.shop/wp-content/uploads/2021/04/photo6.jpg" alt="">
+                </div>
+
+            </div>
+        </div>
+
+        <h3 class="home-color-heading pink-orange text-light mt-5">Latest products</h3>
+        <ul class="latest-products-div mt-4">
+
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo7.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo8.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
+            <li> <a href="#"><img src="https://bo-shu.shop/wp-content/uploads/2021/04/photo9.jpg" alt=""></a> </li>
+
+
+        </ul>
+
+        <h3 class="home-color-heading pink-blue text-light mt-5">Latest news</h3>
+        <div class="latest-news-div">
+            <ul class="mt-3">
+                <li><a href="#">Multi-function pouch 使用介紹</a></li>
+                <li><a href="#">木口金袋選用手冊</a></li>
+                <li><a href="#">Marimekko 懶人包</a></li>
+            </ul>
+
+
+        </div>
+
+
+
+    </div>
+
 
 </main><!-- #site-content -->
 
-<?php get_template_part( 'template-parts/footer-menus-widgets' ); ?>
+
+
+<script type="text/javascript">
+$(function() {
+    $('.latest-products-div').slick({
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 3
+    });
+
+
+})
+</script>
+<?php //get_template_part( 'template-parts/footer-menus-widgets' ); ?>
 
 <?php
 get_footer();
