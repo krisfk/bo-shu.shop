@@ -60,81 +60,6 @@ get_header();
                 alt="">
         </h2>
 
-        <div class="orange-border mt-3 text-center">
-
-            <div class="positive-relative milestone-year-wrapper">
-                <div class="orange-bg milestone-year">2018年</div>
-
-            </div>
-
-            2位香港女生一起閒聊著各品牌新推出的袋款，卻發現市面上袋類選擇雖多， <br>
-            但卻總有一些細節不能滿足自己要求，突然一個興起便提出一起創辦一個品牌，<br>
-            希望可以靠自己製作出真正屬於自己的袋，造就了「布薯」的誕生，<br>
-            名字顧名思義取自我們品牌最重要的元素《布》，<br>
-            另一字《薯》取自其中一位創辦人的花名，又能形成”食字”為品牌添加點玩味。<br><br>
-
-            沒有任何創業經驗，卻帶著希望與更多人分享我們產品的心，<br>
-            創業初期在還沒有拿下第一單訂單已購買了超過100款布款希望讓客人有更多選擇！<br>
-            2個女生每天不斷研究討論不同方案，試驗袋型，<br>
-            每個袋款都經過我們無數次反覆試驗不同尺寸材料，<br>
-            測試無數無數個樣本而誕生，務求為客人帶來最好品質及體驗。
-
-            <div class="text-center mt-3">
-                <img class="boshu-logo"
-                    src="<?php echo get_template_directory_uri() .'/assets/images/boshu-logo.jpg';?>" alt="">
-            </div>
-
-
-        </div>
-
-        <div class="blue-border mt-5 text-center">
-
-            <div class="positive-relative milestone-year-wrapper">
-                <div class="blue-bg milestone-year">2019年</div>
-
-            </div>
-
-            首次與其他品牌合作，與本地動物繪圖手作品牌 adcdream合作推出crossover產品。 <br>
-            整個製作過程都十分順利，亦很高興可以與其他品牌交流。
-
-            <div class="text-center mt-3">
-
-                <img class="adc-bag" src="https://bo-shu.shop/wp-content/uploads/2021/04/adc-bag.jpg" alt="">
-            </div>
-
-
-        </div>
-
-
-        <div class="orange-border mt-5 text-center">
-
-            <div class="positive-relative milestone-year-wrapper">
-                <div class="orange-bg milestone-year">2020年</div>
-
-            </div>
-
-            對全世界都是十分艱難的一年。疫情初期，全香港遇上口罩荒， <br>
-            「布薯」推出口罩套贈送計劃，希望可以略盡棉力為有需要的香港人暫時解決口罩短決問題，<br>
-            一星期內送出超過過百個口罩套，接著推出以近乎成本價售出口罩套，<br>
-            短短2個月售出超過1500個，「布薯」2人連月來日以繼夜不停趕工，<br>
-            盡力在最短時間內幫助到不同類別人士，當中包括醫院員工，機場人員，殘障人士等等。<br><br>
-
-            2020年3月首次接受電視媒體 - Now TV訪問報道介紹我們的產品。
-
-
-            <div class="text-center mt-3">
-
-                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-1.jpg" alt="">
-                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-2.jpg" alt="">
-
-            </div>
-
-
-        </div>
-
-
-
-
         <div class="blue-border mt-5 text-center">
 
             <div class="positive-relative milestone-year-wrapper">
@@ -162,6 +87,85 @@ get_header();
 
 
         </div>
+        <div class="orange-border mt-5 text-center">
+
+            <div class="positive-relative milestone-year-wrapper">
+                <div class="orange-bg milestone-year">2020年</div>
+
+            </div>
+
+            對全世界都是十分艱難的一年。疫情初期，全香港遇上口罩荒， <br>
+            「布薯」推出口罩套贈送計劃，希望可以略盡棉力為有需要的香港人暫時解決口罩短決問題，<br>
+            一星期內送出超過過百個口罩套，接著推出以近乎成本價售出口罩套，<br>
+            短短2個月售出超過1500個，「布薯」2人連月來日以繼夜不停趕工，<br>
+            盡力在最短時間內幫助到不同類別人士，當中包括醫院員工，機場人員，殘障人士等等。<br><br>
+
+            2020年3月首次接受電視媒體 - Now TV訪問報道介紹我們的產品。
+
+
+            <div class="text-center mt-3">
+
+                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-1.jpg" alt="">
+                <img class="now-tv-img" src="https://bo-shu.shop/wp-content/uploads/2021/04/now-tv-2.jpg" alt="">
+
+            </div>
+
+
+        </div>
+        <div class="blue-border mt-5 text-center">
+
+            <div class="positive-relative milestone-year-wrapper">
+                <div class="blue-bg milestone-year">2019年</div>
+
+            </div>
+
+            首次與其他品牌合作，與本地動物繪圖手作品牌 adcdream合作推出crossover產品。 <br>
+            整個製作過程都十分順利，亦很高興可以與其他品牌交流。
+
+            <div class="text-center mt-3">
+
+                <img class="adc-bag" src="https://bo-shu.shop/wp-content/uploads/2021/04/adc-bag.jpg" alt="">
+            </div>
+
+
+        </div>
+
+
+        <div class="orange-border mt-3 text-center">
+
+            <div class="positive-relative milestone-year-wrapper">
+                <div class="orange-bg milestone-year">2018年</div>
+
+            </div>
+
+            2位香港女生一起閒聊著各品牌新推出的袋款，卻發現市面上袋類選擇雖多， <br>
+            但卻總有一些細節不能滿足自己要求，突然一個興起便提出一起創辦一個品牌，<br>
+            希望可以靠自己製作出真正屬於自己的袋，造就了「布薯」的誕生，<br>
+            名字顧名思義取自我們品牌最重要的元素《布》，<br>
+            另一字《薯》取自其中一位創辦人的花名，又能形成”食字”為品牌添加點玩味。<br><br>
+
+            沒有任何創業經驗，卻帶著希望與更多人分享我們產品的心，<br>
+            創業初期在還沒有拿下第一單訂單已購買了超過100款布款希望讓客人有更多選擇！<br>
+            2個女生每天不斷研究討論不同方案，試驗袋型，<br>
+            每個袋款都經過我們無數次反覆試驗不同尺寸材料，<br>
+            測試無數無數個樣本而誕生，務求為客人帶來最好品質及體驗。
+
+            <div class="text-center mt-3">
+                <img class="boshu-logo"
+                    src="<?php echo get_template_directory_uri() .'/assets/images/boshu-logo.jpg';?>" alt="">
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+
+
+
 
 
 
