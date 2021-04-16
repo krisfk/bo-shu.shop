@@ -318,4 +318,9 @@ footer li {
     color: #fff;
 }
 
-.milestone-year {}
+.milestone-year {
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.milestone-year-wrapper {}
