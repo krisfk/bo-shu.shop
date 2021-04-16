@@ -279,5 +279,6 @@ footer li {
 .about-us-submenu li a {
     background: #93accc;
     color: #fff;
-    padding: 5px 10px;
+    text-decoration: none;
+    padding: 10px 20px;
 }
