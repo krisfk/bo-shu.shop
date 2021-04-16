@@ -276,6 +276,7 @@ footer li {
 
 .about-us-submenu li {
     display: inline-block;
+    margin: 0px 5px;
 }
 
 .about-us-submenu li a {
