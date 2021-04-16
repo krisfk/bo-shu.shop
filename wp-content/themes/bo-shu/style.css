@@ -285,3 +285,11 @@ footer li {
     text-decoration: none;
     padding: 10px 20px;
 }
+
+.page-about-us h2 {
+    position: relative;
+}
+
+.page-about-us h2 .potato {
+    height: 100%;
+}
