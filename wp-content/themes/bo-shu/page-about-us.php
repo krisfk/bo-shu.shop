@@ -147,13 +147,13 @@ get_header();
             為期3個月的POP UP快閃店。
 
 
-            <div class="mt-3 mb-3">
+            <div class="mt-3 ">
                 <img class="pop-up-1" src="https://bo-shu.shop/wp-content/uploads/2021/04/pop-up-1.jpg" alt="">
                 <img class="pop-up-2" src="https://bo-shu.shop/wp-content/uploads/2021/04/pop-up-2.jpg" alt="">
             </div>
             首次推出自家設計布款，並計劃推出不同類型自家設計產品。
 
-            <div class="mt-3 mb-3">
+            <div class="mt-3">
                 <img class="pop-up-3" src="https://bo-shu.shop/wp-content/uploads/2021/04/pop-up-3.jpg" alt="">
             </div>
             期待「布薯」的路可以愈走愈遠。
