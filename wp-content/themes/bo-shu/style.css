@@ -331,3 +331,15 @@ footer li {
 .page-about-us .boshu-logo {
     width: 200px;
 }
+
+.blue-border {
+    border: 1px solid #93accc;
+    display: table;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.blue-bg {
+    background: #93accc;
+    color: #fff;
+}

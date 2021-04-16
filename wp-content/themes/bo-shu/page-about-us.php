@@ -87,6 +87,33 @@ get_header();
 
         </div>
 
+        <div class="bluue-border mt-3 text-center">
+
+            <div class="positive-relative milestone-year-wrapper">
+                <div class="blue-bg milestone-year">2018年</div>
+
+            </div>
+
+            2位香港女生一起閒聊著各品牌新推出的袋款，卻發現市面上袋類選擇雖多， <br>
+            但卻總有一些細節不能滿足自己要求，突然一個興起便提出一起創辦一個品牌，<br>
+            希望可以靠自己製作出真正屬於自己的袋，造就了「布薯」的誕生，<br>
+            名字顧名思義取自我們品牌最重要的元素《布》，<br>
+            另一字《薯》取自其中一位創辦人的花名，又能形成”食字”為品牌添加點玩味。<br><br>
+
+            沒有任何創業經驗，卻帶著希望與更多人分享我們產品的心，<br>
+            創業初期在還沒有拿下第一單訂單已購買了超過100款布款希望讓客人有更多選擇！<br>
+            2個女生每天不斷研究討論不同方案，試驗袋型，<br>
+            每個袋款都經過我們無數次反覆試驗不同尺寸材料，<br>
+            測試無數無數個樣本而誕生，務求為客人帶來最好品質及體驗。
+
+            <div class="text-center mt-3">
+                <img class="boshu-logo"
+                    src="<?php echo get_template_directory_uri() .'/assets/images/boshu-logo.jpg';?>" alt="">
+            </div>
+
+
+        </div>
+
 
 
 
