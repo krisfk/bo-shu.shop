@@ -367,6 +367,11 @@ footer li {
     .orange-border {
         width: 95%;
     }
+    .now-tv-img {
+        width: 100%;
+        height: auto;
+        margin: 0 0 20px 0;
+    }
 }
 
 @media screen and (max-width: 768px) {}
