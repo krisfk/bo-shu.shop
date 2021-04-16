@@ -34,7 +34,7 @@ get_header();
         </ul>
 
 
-        <img src="https://bo-shu.shop/wp-content/uploads/2021/04/about-us-img-1.jpg" alt="">
+        <img class="w-100" src="https://bo-shu.shop/wp-content/uploads/2021/04/about-us-img-1.jpg" alt="">
 
         <h2><img src="<?php echo get_template_directory_uri() .'/assets/images/potato.png';?>" alt=""> 關於布薯</h2>
 
