@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 $template = wc_get_theme_slug_for_templates();
-
+echo 34234;
 switch ( $template ) {
 	case 'twentyten':
 		echo '<div id="container"><div id="content" role="main">';
@@ -44,6 +44,6 @@ switch ( $template ) {
 		echo '<div id="primary" class="content-area twentysixteen"><main id="main" class="site-main" role="main">';
 		break;
 	default:
-		echo '<div id="primary" class="content-area"><main id="main" class="site-main" role="main">ffffff';
+		echo '<div id="primary" class="content-area"><main id="main" class="site-main" role="main">';
 		break;
 }
