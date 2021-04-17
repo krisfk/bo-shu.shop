@@ -72,11 +72,11 @@ a:focus {
 }
 
 .logo-a img {
-    height: 124px;
+    height: 124px !important;
 }
 
 .e-com-icon {
-    height: 30px;
+    height: 30px !important;
 }
 
 .e-com-icon-links {
