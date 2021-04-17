@@ -253,7 +253,7 @@ footer li {
 }
 
 .payment-icon {
-    height: 24px;
+    height: 24px !important;
     padding: 0 10px 0 0;
 }
 
