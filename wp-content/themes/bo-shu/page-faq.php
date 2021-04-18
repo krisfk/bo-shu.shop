@@ -22,7 +22,8 @@ get_header();
 
     <div class="container">
 
-        ffdsf
+        FAQs
+        <input class="form-control" type="text">
 
 
 
