@@ -386,6 +386,10 @@ footer li {
     color: #93accc;
 } */
 
+.page-faq a {
+    text-decoration: none;
+}
+
 .page-faq a h2.light-blue {
     font-size: 18px;
     color: #93accc;
