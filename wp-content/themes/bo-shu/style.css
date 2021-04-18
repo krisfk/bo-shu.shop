@@ -384,6 +384,10 @@ footer li {
     color: #93accc;
 }
 
+.page-faq h2 {
+    font-size: 16px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
