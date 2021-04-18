@@ -27,7 +27,25 @@ get_header();
             FAQs
             <input class="form-control" type="text">
 
-            <h2 class="light-blue">產品及訂單</h2>
+
+            <ul>
+                <li>
+                    <a href="#">
+                        <h2 class="light-blue">產品及訂單</h2>
+                    </a>
+                    <ul>
+                        <li><a href="#"> 布料剪裁及顏色</a></li>
+                        <ul>
+                            <li>實際布料拼接的順序與圖案分布位置不一樣，所有布料皆為隨機剪裁，每一件製成品將與照片上不完全相同，敬請理解。
+                                <br> <br>
+                                布料實物顏色與螢幕顯示可能存在細微色差，不接受上述原因之退換貨。
+                            </li>
+                        </ul>
+                    </ul>
+                </li>
+
+            </ul>
+
 
 
 
