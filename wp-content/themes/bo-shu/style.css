@@ -408,6 +408,8 @@ footer li {
 .page-faq .subheading-a {
     border-bottom: 1px solid rgb(182, 182, 182);
     display: block;
+    font-size: 18px;
+    color: #000;
     padding: 10px 0 10px 0;
 }
 
