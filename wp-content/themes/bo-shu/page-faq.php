@@ -51,6 +51,45 @@ get_header();
 
                             </div>
                         </li>
+                        <li><a class="subheading-a" href="#"> 個人化訂製</a>
+                            <div class="content-div">
+
+                                現貨產品不設個人化訂製服務（如綉名），如有需要請選購個人化訂製產品。
+
+
+                            </div>
+                        </li>
+
+                        <li><a class="subheading-a" href="#"> 訂製其他尺寸</a>
+                            <div class="content-div">
+
+                                如希望訂製其他尺寸，請<a href="#">聯絡我們</a>
+
+
+
+                            </div>
+                        </li>
+                        <li><a class="subheading-a" href="#"> 修改訂單</a>
+                            <div class="content-div">
+
+                                下單前請先確認尺寸、顏色、材質等，所有訂單一經確認，恕不接受更改或退換。
+
+
+
+                            </div>
+                        </li>
+
+                        <li><a class="subheading-a" href="#"> 禮盒包裝</a>
+                            <div class="content-div">
+
+                                所有木口金袋已包括禮盒包裝(如下圖)，其他產品可額外加HKD $10換購 <br>
+                                所有禮盒裝不會包括任何價錢或單據，可以直接送禮
+
+
+
+                            </div>
+                        </li>
+
 
 
                     </ul>
