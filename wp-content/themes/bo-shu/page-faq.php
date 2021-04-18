@@ -92,6 +92,16 @@ get_header();
                         </li>
 
 
+                        <li><a class="subheading-a" href="#"> 付款方式</a>
+                            <div class="content-div">
+
+                                本店接受信用卡(VISA/ MasterCard)、Payme、轉數快、銀行轉帳方式付款。 <br>
+                                本店以港元作交易貨幣，在網站顯示其他貨幣只作參考用途，一切交易均以港幣價格作準。
+
+                            </div>
+                        </li>
+
+
 
                     </ul>
                 </li>
