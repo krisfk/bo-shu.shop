@@ -22,9 +22,11 @@ get_header();
 
     <div class="container">
 
-        FAQs
-        <input class="form-control" type="text">
 
+        <div class="inner-container">
+            FAQs
+            <input class="form-control" type="text">
+        </div>
 
 
 
