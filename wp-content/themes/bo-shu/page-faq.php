@@ -73,7 +73,7 @@ get_header();
                             <div class="content-div">
 
                                 下單前請先確認尺寸、顏色、材質等，所有訂單一經確認，恕不接受更改或退換。
-
+                                3
 
 
                             </div>
@@ -85,7 +85,8 @@ get_header();
                                 所有木口金袋已包括禮盒包裝(如下圖)，其他產品可額外加HKD $10換購 <br>
                                 所有禮盒裝不會包括任何價錢或單據，可以直接送禮
 
-                                <img src="https://bo-shu.shop/wp-content/uploads/2021/04/faq-img-1.jpg" alt="">
+                                <img class="mt-3" src="https://bo-shu.shop/wp-content/uploads/2021/04/faq-img-1.jpg"
+                                    alt="">
 
                             </div>
                         </li>
