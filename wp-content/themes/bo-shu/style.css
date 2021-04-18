@@ -425,6 +425,10 @@ footer li {
     text-decoration: none;
 }
 
+.content-div img {
+    max-width: 330px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
