@@ -85,7 +85,7 @@ get_header();
                                 所有木口金袋已包括禮盒包裝(如下圖)，其他產品可額外加HKD $10換購 <br>
                                 所有禮盒裝不會包括任何價錢或單據，可以直接送禮
 
-
+                                <img src="https://bo-shu.shop/wp-content/uploads/2021/04/faq-img-1.jpg" alt="">
 
                             </div>
                         </li>
