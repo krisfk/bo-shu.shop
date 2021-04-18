@@ -390,6 +390,15 @@ footer li {
     text-decoration: none;
 }
 
+.page-faq ul {
+    margin: 0;
+    padding: 0;
+}
+
+.page-faq ul li {
+    list-style-type: none;
+}
+
 .page-faq a h2.light-blue {
     font-size: 18px;
     color: #93accc;
