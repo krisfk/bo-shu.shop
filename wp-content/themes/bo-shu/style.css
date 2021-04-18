@@ -377,6 +377,7 @@ footer li {
 
 .inner-container {
     max-width: 650px;
+    margin: 0 auto;
 }
 
 @media screen and (max-width: 1920px) {}
