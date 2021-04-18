@@ -380,12 +380,16 @@ footer li {
     margin: 0 auto;
 }
 
+
+/* 
 .light-blue {
     color: #93accc;
-}
+} */
 
-.page-faq h2 {
+.page-faq a h2.light-blue {
     font-size: 18px;
+    color: #93accc;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 1920px) {}
