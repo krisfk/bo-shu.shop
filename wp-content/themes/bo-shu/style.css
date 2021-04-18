@@ -402,6 +402,7 @@ footer li {
 
 .page-faq .heading-a {
     border-bottom: 1px solid rgb(182, 182, 182);
+    display: block;
 }
 
 .page-faq a h2.light-blue {
