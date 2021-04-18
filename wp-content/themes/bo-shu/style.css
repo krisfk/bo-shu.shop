@@ -408,11 +408,13 @@ footer li {
 .page-faq .subheading-a {
     border-bottom: 1px solid rgb(182, 182, 182);
     display: block;
+    padding: 20px 0 20px 0;
 }
 
 .page-faq .content-li {
     border-bottom: 1px solid rgb(182, 182, 182);
     display: block;
+    padding: 20px 0 20px 0;
 }
 
 .page-faq a h2.light-blue {
