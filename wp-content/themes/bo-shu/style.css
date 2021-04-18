@@ -380,6 +380,10 @@ footer li {
     margin: 0 auto;
 }
 
+.light-blue {
+    color: #93accc;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
