@@ -226,11 +226,52 @@ get_header();
                 </li>
             </ul>
 
+            <ul class="mt-5">
+                <li>
+                    <a class="heading-a" href="#">
+                        <h2 class="light-blue">運送安排
+
+                        </h2>
+                    </a>
+                    <ul>
+                        <li><a class="subheading-a" href="#"> 運送地點
 
 
 
+                            </a>
+                            <div class="content-div">
+
+                                我們安排全球運送。
+
+                            </div>
+                        </li>
+                        <li><a class="subheading-a" href="#"> 運送政策
+
+
+
+
+                            </a>
+                            <div class="content-div">
+
+                                <ul class="dot-ul">
+                                    <li>每一張網上訂單只可以運送指定地址一個。</li>
+                                    <l>客戶網上下單前請確保收件人名稱、收件人電話號碼及收件地址正確，提供錯誤的資料導致貨品延遲取貨及第三方盜竊的費用，布薯恕不負責。
+                        </li>
+                        <l>所有訂單將於香港以順豐快遞 (港澳/台灣/中國大陸)／EMS (海外地區)寄出，發貨後會以電郵通知
+                </li>
+            </ul>
 
         </div>
+        </li>
+        </ul>
+        </li>
+        </ul>
+
+
+
+
+
+    </div>
 
 
 
