@@ -439,7 +439,7 @@ footer li {
 }
 
 .dot-ul li {
-    list-style-type: disc;
+    list-style-type: disc !important;
 }
 
 @media screen and (max-width: 1920px) {}
