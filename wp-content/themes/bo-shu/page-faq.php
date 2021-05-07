@@ -111,8 +111,36 @@ get_header();
             <ul class="mt-5">
                 <li>
                     <a class="heading-a" href="#">
-                        <h2 class="light-blue">產品及訂單</h2>
+                        <h2 class="light-blue">個人化訂製服務
+                        </h2>
                     </a>
+                    <ul>
+                        <li><a class="subheading-a" href="#"> 製作時間</a>
+                            <div class="content-div">
+
+                                所有個人化訂製產品：本店所有布藝品製作過程(由裁布至車縫)均為人手處理，製作需時，一般製作期為訂單確認後四至五星期，某些產品製作期或較短，詳細製作期以產品介紹頁為準，製作期可能會因應訂單的數量有所調整。
+
+
+                            </div>
+                        </li>
+                        <li><a class="subheading-a" href="#"> 木口金顏色
+                            </a>
+                            <div class="content-div">
+
+                                訂製木口金袋款可自選木口金顏色 <br>
+                                S size 木口金有3色選擇 <br>
+                                M／L size 木口金有4色選擇
+                                <table>
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                    </tr>
+                                </table>
+
+                            </div>
+                        </li>
+
+                    </ul>
                 </li>
             </ul>
 
