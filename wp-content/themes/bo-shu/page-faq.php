@@ -263,6 +263,23 @@ get_header();
 
                             </div>
                         </li>
+
+
+                        <li><a class="subheading-a" href="#"> 寄貨安排
+
+
+
+
+                            </a>
+                            <div class="content-div">
+
+                                現貨及布料：將於付款確認後的3個工作天內安排寄出。 <br>
+                                所有包含訂製產品訂單：將於製作完成後的3個工作天內安排寄出。
+
+
+                            </div>
+                        </li>
+
                     </ul>
                 </li>
             </ul>
