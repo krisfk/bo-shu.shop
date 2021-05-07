@@ -24,9 +24,12 @@ get_header();
 
 
         <div class="inner-container">
-            FAQs
-            <input class="form-control" type="text">
 
+
+            <div class="mt-5">
+                <h1> FAQs</h1>
+                <input class="form-control" type="text">
+            </div>
 
             <ul class="mt-5">
                 <li>
