@@ -73,7 +73,7 @@ get_header();
                             <div class="content-div">
 
                                 下單前請先確認尺寸、顏色、材質等，所有訂單一經確認，恕不接受更改或退換。
-                                3
+
 
 
                             </div>
@@ -107,6 +107,15 @@ get_header();
                 </li>
 
             </ul>
+
+            <ul class="mt-5">
+                <li>
+                    <a class="heading-a" href="#">
+                        <h2 class="light-blue">產品及訂單</h2>
+                    </a>
+                </li>
+            </ul>
+
 
 
 
