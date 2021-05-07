@@ -84,12 +84,12 @@ a:focus {
 }
 
 .e-com-icon-links table {
-    border: none;
+    border: none !important;
 }
 
 .e-com-icon-links table td {
-    border: none;
-    padding: 0;
+    border: none !important;
+    padding: 0 !important;
 }
 
 .menu {
