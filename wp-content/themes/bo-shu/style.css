@@ -425,7 +425,7 @@ footer li {
 
 .page-faq .content-div {
     border-bottom: 1px solid rgb(182, 182, 182);
-    display: block;
+    display: none;
     padding: 10px 0 10px 0;
 }
 
