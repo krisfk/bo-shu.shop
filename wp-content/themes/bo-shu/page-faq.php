@@ -132,8 +132,14 @@ get_header();
                                 M／L size 木口金有4色選擇
                                 <table>
                                     <tr>
-                                        <td></td>
-                                        <td></td>
+                                        <td>S size 木口金</td>
+                                        <td>M／L size 木口金</td>
+                                    </tr>
+                                    <tr>
+                                        <td><img src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-1.jpg"
+                                                alt=""></td>
+                                        <td><img src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-2.jpg"
+                                                alt=""></td>
                                     </tr>
                                 </table>
 
