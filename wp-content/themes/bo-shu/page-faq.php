@@ -400,6 +400,42 @@ get_header();
                 </li>
             </ul>
 
+            <ul class="mt-5">
+                <li>
+                    <a class="heading-a" href="#">
+                        <h2 class="light-blue">會員計劃
+
+                        </h2>
+                    </a>
+                    <ul>
+                        <li><a class="subheading-a" href="#">如何登記成為會員?</a>
+                            <div class="content-div">
+                                你可以於以下網頁進行登記：______ <br>
+                                登記成為會員費用全免。
+                            </div>
+                        </li>
+                        <li><a class="subheading-a" href="#">會員及積分有效期</a>
+                            <div class="content-div">
+                                會員及積分為永久有效。
+
+                            </div>
+                        </li>
+                        <li><a class="subheading-a" href="#">如何獲取積分?
+                            </a>
+                            <div class="content-div">
+                                當你每次在布薯網站消費，你將會根據以下積分制度自動獲取相關積分: <br>
+                                每港幣HK$1元消費可獲取1分 <br> <br>
+
+                                布薯保留會員計劃刪改以上條款的權利，怒不另行通知。
+
+                            </div>
+                        </li>
+
+                    </ul>
+                </li>
+            </ul>
+
+
 
 
 
