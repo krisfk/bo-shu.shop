@@ -83,6 +83,15 @@ a:focus {
     font-size: 13px;
 }
 
+.e-com-icon-links table {
+    border: none;
+}
+
+.e-com-icon-links table td {
+    border: none;
+    padding: 0;
+}
+
 .menu {
     text-align: center;
 }
