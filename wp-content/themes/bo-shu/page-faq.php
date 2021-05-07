@@ -349,7 +349,34 @@ get_header();
                                             順豐到付費用請參考: <a href="https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query"
                                                 target="_blank">https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query</a>
                                         </td>
-                                        <td></td>
+                                    </tr>
+                                    <tr>
+                                        <td>台灣</td>
+                                        <td rowspan="2">順豐快遞
+                                        </td>
+                                        <td>滿HKD HK$800免運費 <br>
+                                            (不包括Marimekko/ SOUSOU布料)<br>
+
+                                            HK$800以下訂單，或所有Marimekko/ SOUSOU布料訂單將安排順豐到付<br><br>
+
+                                            順豐到付費用請參考: <a href="https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query"
+                                                target="_blank">https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query</a>
+                                        </td>
+                                        <td>3-7 工作天</td>
+                                    </tr>
+                                    <tr>
+                                        <td>中國大陸</td>
+                                        <td>所有訂單將安排順豐到付: <br><br>
+
+                                            順豐到付費用請參考: <a href="https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query"
+                                                target="_blank">
+                                                https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td>其他海外地區</td>
+                                        <td>EMS</td>
+                                        <td>HKD $180</td>
+                                        <td>15-30 工作天</td>
                                     </tr>
                                 </table>
                             </div>
