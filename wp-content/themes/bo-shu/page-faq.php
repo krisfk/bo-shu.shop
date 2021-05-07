@@ -435,6 +435,28 @@ get_header();
                 </li>
             </ul>
 
+            <ul class="mt-5">
+                <li>
+                    <a class="heading-a" href="#">
+                        <h2 class="light-blue">換貨及退貨
+
+
+                        </h2>
+                    </a>
+                    <ul>
+                        <a class="subheading-a" href="#">布料
+                        </a>
+                        <div class="content-div">
+                            <ul class="dot-ul">
+
+                                <li>請於收取貨品後馬上檢查貨品是否閣下所訂購之種類、數量及是否有損毀或瑕疵。</li>
+                                <li>所有布料如非質量問題恕不退換。</li>
+                            </ul>
+
+                        </div>
+                    </ul>
+                </li>
+            </ul>
 
 
 
