@@ -147,6 +147,33 @@ get_header();
                             </div>
                         </li>
 
+                        <li><a class="subheading-a" href="#"> 綉名服務
+
+                            </a>
+                            <div class="content-div">
+
+                                訂製產品可加HK$30 選購綉名服務 <br>
+                                可綉最多4個中文字 或 最多8個英文字母 <br>
+                                綉名尺寸將按照產品大小調整，如有特定需要，請於下單時備註說明，我們將盡力配合。
+
+
+                                <table class="mt-3">
+                                    <tr>
+                                        <td>綉名字型</td>
+                                        <td>綉名顏色</td>
+                                    </tr>
+                                    <tr>
+                                        <td><img src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-3-1.jpg"
+                                                alt=""></td>
+                                        <td><img src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-4.jpg"
+                                                alt=""></td>
+                                    </tr>
+                                </table>
+
+                            </div>
+                        </li>
+
+
                     </ul>
                 </li>
             </ul>
