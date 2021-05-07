@@ -30,18 +30,18 @@ get_header();
 
             <ul class="mt-5">
                 <li>
-                    <a class="heading-a" href="#">
+                    <a class="heading-a" href="javascript:void(0);">
                         <h2 class="light-blue">產品及訂單</h2>
                     </a>
                     <ul>
-                        <li><a class="subheading-a" href="#"> 布料剪裁及顏色</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 布料剪裁及顏色</a>
                             <div class="content-div">實際布料拼接的順序與圖案分布位置不一樣，所有布料皆為隨機剪裁，每一件製成品將與照片上不完全相同，敬請理解。
                                 <br> <br>
                                 布料實物顏色與螢幕顯示可能存在細微色差，不接受上述原因之退換貨。
                             </div>
                         </li>
 
-                        <li><a class="subheading-a" href="#"> 製作時間</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 製作時間</a>
                             <div class="content-div">
                                 現貨產品及布料：將於訂單確認後1－3個工作天內寄出 <br><br>
 
@@ -51,7 +51,7 @@ get_header();
 
                             </div>
                         </li>
-                        <li><a class="subheading-a" href="#"> 個人化訂製</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 個人化訂製</a>
                             <div class="content-div">
 
                                 現貨產品不設個人化訂製服務（如綉名），如有需要請選購個人化訂製產品。
@@ -60,16 +60,16 @@ get_header();
                             </div>
                         </li>
 
-                        <li><a class="subheading-a" href="#"> 訂製其他尺寸</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 訂製其他尺寸</a>
                             <div class="content-div">
 
-                                如希望訂製其他尺寸，請<a href="#">聯絡我們</a>
+                                如希望訂製其他尺寸，請<a href="javascript:void(0);">聯絡我們</a>
 
 
 
                             </div>
                         </li>
-                        <li><a class="subheading-a" href="#"> 修改訂單</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 修改訂單</a>
                             <div class="content-div">
 
                                 下單前請先確認尺寸、顏色、材質等，所有訂單一經確認，恕不接受更改或退換。
@@ -79,7 +79,7 @@ get_header();
                             </div>
                         </li>
 
-                        <li><a class="subheading-a" href="#"> 禮盒包裝</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 禮盒包裝</a>
                             <div class="content-div">
 
                                 所有木口金袋已包括禮盒包裝(如下圖)，其他產品可額外加HKD $10換購 <br>
@@ -92,7 +92,7 @@ get_header();
                         </li>
 
 
-                        <li><a class="subheading-a" href="#"> 付款方式</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 付款方式</a>
                             <div class="content-div">
 
                                 本店接受信用卡(VISA/ MasterCard)、Payme、轉數快、銀行轉帳方式付款。 <br>
@@ -110,12 +110,12 @@ get_header();
 
             <ul class="mt-5">
                 <li>
-                    <a class="heading-a" href="#">
+                    <a class="heading-a" href="javascript:void(0);">
                         <h2 class="light-blue">個人化訂製服務
                         </h2>
                     </a>
                     <ul>
-                        <li><a class="subheading-a" href="#"> 製作時間</a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 製作時間</a>
                             <div class="content-div">
 
                                 所有個人化訂製產品：本店所有布藝品製作過程(由裁布至車縫)均為人手處理，製作需時，一般製作期為訂單確認後四至五星期，某些產品製作期或較短，詳細製作期以產品介紹頁為準，製作期可能會因應訂單的數量有所調整。
@@ -123,7 +123,7 @@ get_header();
 
                             </div>
                         </li>
-                        <li><a class="subheading-a" href="#"> 木口金顏色
+                        <li><a class="subheading-a" href="javascript:void(0);"> 木口金顏色
                             </a>
                             <div class="content-div">
 
@@ -147,7 +147,7 @@ get_header();
                             </div>
                         </li>
 
-                        <li><a class="subheading-a" href="#"> 綉名服務
+                        <li><a class="subheading-a" href="javascript:void(0);"> 綉名服務
 
                             </a>
                             <div class="content-div">
@@ -175,7 +175,7 @@ get_header();
 
 
 
-                        <li><a class="subheading-a" href="#"> 綉名服務
+                        <li><a class="subheading-a" href="javascript:void(0);"> 綉名服務
 
                             </a>
                             <div class="content-div">
@@ -190,7 +190,7 @@ get_header();
                         </li>
 
 
-                        <li><a class="subheading-a" href="#"> bling bling 帶選擇
+                        <li><a class="subheading-a" href="javascript:void(0);"> bling bling 帶選擇
 
                             </a>
                             <div class="content-div">
@@ -205,7 +205,7 @@ get_header();
                         </li>
 
 
-                        <li><a class="subheading-a" href="#"> 個人化訂製－修改訂單
+                        <li><a class="subheading-a" href="javascript:void(0);"> 個人化訂製－修改訂單
 
 
                             </a>
@@ -228,13 +228,13 @@ get_header();
 
             <ul class="mt-5">
                 <li>
-                    <a class="heading-a" href="#">
+                    <a class="heading-a" href="javascript:void(0);">
                         <h2 class="light-blue">運送安排
 
                         </h2>
                     </a>
                     <ul>
-                        <li><a class="subheading-a" href="#"> 運送地點
+                        <li><a class="subheading-a" href="javascript:void(0);"> 運送地點
 
 
 
@@ -245,7 +245,7 @@ get_header();
 
                             </div>
                         </li>
-                        <li><a class="subheading-a" href="#"> 運送政策
+                        <li><a class="subheading-a" href="javascript:void(0);"> 運送政策
 
 
 
@@ -265,7 +265,7 @@ get_header();
                         </li>
 
 
-                        <li><a class="subheading-a" href="#"> 寄貨安排
+                        <li><a class="subheading-a" href="javascript:void(0);"> 寄貨安排
 
 
 
@@ -280,7 +280,7 @@ get_header();
                             </div>
                         </li>
 
-                        <li><a class="subheading-a" href="#"> 運送安排
+                        <li><a class="subheading-a" href="javascript:void(0);"> 運送安排
 
 
 
@@ -329,7 +329,7 @@ get_header();
                             </div>
                         </li>
 
-                        <li><a class="subheading-a" href="#"> 運費 </a>
+                        <li><a class="subheading-a" href="javascript:void(0);"> 運費 </a>
                             <div class="content-div">
                                 <table>
                                     <tr>
@@ -384,7 +384,7 @@ get_header();
                             </div>
                         </li>
                         <li>
-                            <a class="subheading-a" href="#"> 關稅及稅款
+                            <a class="subheading-a" href="javascript:void(0);"> 關稅及稅款
                             </a>
                             <div class="content-div">
                                 布薯不會承擔訂單的任何關稅及稅款。 送貨期間或發貨後收取的所有費用均由客戶負責(關稅、稅費等)。 <br><br>
@@ -402,25 +402,25 @@ get_header();
 
             <ul class="mt-5">
                 <li>
-                    <a class="heading-a" href="#">
+                    <a class="heading-a" href="javascript:void(0);">
                         <h2 class="light-blue">會員計劃
 
                         </h2>
                     </a>
                     <ul>
-                        <li><a class="subheading-a" href="#">如何登記成為會員?</a>
+                        <li><a class="subheading-a" href="javascript:void(0);">如何登記成為會員?</a>
                             <div class="content-div">
                                 你可以於以下網頁進行登記：______ <br>
                                 登記成為會員費用全免。
                             </div>
                         </li>
-                        <li><a class="subheading-a" href="#">會員及積分有效期</a>
+                        <li><a class="subheading-a" href="javascript:void(0);">會員及積分有效期</a>
                             <div class="content-div">
                                 會員及積分為永久有效。
 
                             </div>
                         </li>
-                        <li><a class="subheading-a" href="#">如何獲取積分?
+                        <li><a class="subheading-a" href="javascript:void(0);">如何獲取積分?
                             </a>
                             <div class="content-div">
                                 當你每次在布薯網站消費，你將會根據以下積分制度自動獲取相關積分: <br>
@@ -437,7 +437,7 @@ get_header();
 
             <ul class="mt-5">
                 <li>
-                    <a class="heading-a" href="#">
+                    <a class="heading-a" href="javascript:void(0);">
                         <h2 class="light-blue">換貨及退貨
 
 
@@ -445,7 +445,7 @@ get_header();
                     </a>
                     <ul>
                         <li>
-                            <a class="subheading-a" href="#">布料
+                            <a class="subheading-a" href="javascript:void(0);">布料
                             </a>
                             <div class="content-div">
                                 <ul class="dot-ul">
@@ -457,7 +457,7 @@ get_header();
                             </div>
                         </li>
                         <li>
-                            <a class="subheading-a" href="#">布藝產品
+                            <a class="subheading-a" href="javascript:void(0);">布藝產品
 
                             </a>
                             <div class="content-div">
@@ -496,7 +496,7 @@ get_header();
 
             <ul class="mt-5">
                 <li>
-                    <a class="heading-a" href="#">
+                    <a class="heading-a" href="javascript:void(0);">
                         <h2 class="light-blue">保養及洗滌指引
 
 
@@ -506,7 +506,7 @@ get_header();
                     </a>
                     <ul>
                         <li>
-                            <a class="subheading-a" href="#">所有產品
+                            <a class="subheading-a" href="javascript:void(0);">所有產品
 
                             </a>
                             <div class="content-div">
@@ -523,7 +523,7 @@ get_header();
                         </li>
 
                         <li>
-                            <a class="subheading-a" href="#">木口金袋額外注意事項
+                            <a class="subheading-a" href="javascript:void(0);">木口金袋額外注意事項
 
 
                             </a>
@@ -540,7 +540,7 @@ get_header();
                 </li>
             </ul>
 
-            <div class="mt-4">如果有任何其他疑問，歡迎 <a href="#"> 聯絡我們</a></div>
+            <div class="mt-4">如果有任何其他疑問，歡迎 <a href="javascript:void(0);"> 聯絡我們</a></div>
 
 
 
