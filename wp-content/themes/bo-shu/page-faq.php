@@ -521,9 +521,26 @@ get_header();
                                 </ul>
                             </div>
                         </li>
+
+                        <li>
+                            <a class="subheading-a" href="#">木口金袋額外注意事項
+
+
+                            </a>
+                            <div class="content-div">
+                                <ul class="dot-ul">
+
+                                    <li> 木口金為實木，如需清潔可以中性洗劑手洗去污布料位置（切勿大力搓洗）。</li>
+                                    <li> 不可使用洗衣機、乾洗、高溫、漂白或長時間浸泡。</li>
+                                </ul>
+                            </div>
+                        </li>
+
                     </ul>
                 </li>
             </ul>
+
+            <div>如果有任何其他疑問，歡迎聯絡我們</div>
 
 
 
