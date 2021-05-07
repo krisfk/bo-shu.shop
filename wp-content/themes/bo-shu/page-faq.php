@@ -494,6 +494,37 @@ get_header();
             </ul>
 
 
+            <ul class="mt-5">
+                <li>
+                    <a class="heading-a" href="#">
+                        <h2 class="light-blue">保養及洗滌指引
+
+
+
+
+                        </h2>
+                    </a>
+                    <ul>
+                        <li>
+                            <a class="subheading-a" href="#">所有產品
+
+                            </a>
+                            <div class="content-div">
+                                <ul class="dot-ul">
+                                    <li>印花製品經反覆水洗、色澤隨清潔次數產生之漸進變化，屬正常現象。</li>
+                                    <li>Marimekko棉質布料官方建議使用60°C 水溫清洗。</li>
+                                    <li>日常清潔建議手洗；若要使用洗衣機，請反面放洗衣袋。</li>
+                                    <li>避免乾洗、高溫、大力搓洗、漂白或長時間浸泡。</li>
+                                    <li>深色布料有機會有輕微色料溶情況，屬正常現象，建議與淺色布料分開洗滌。</li>
+                                    <li>棉、麻製品第一次洗滌可能會有縮水現象。</li>
+                                    <li>自然陰乾，避免過度日曬及避用烘乾。</li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
 
 
 
