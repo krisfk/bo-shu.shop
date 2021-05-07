@@ -423,6 +423,8 @@ footer li {
     padding: 10px 0 10px 0;
 }
 
+.page-faq .subheading-a.active {}
+
 .page-faq .content-div {
     border-bottom: 1px solid rgb(182, 182, 182);
     display: none;
