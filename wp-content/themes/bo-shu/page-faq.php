@@ -130,6 +130,7 @@ get_header();
                                 訂製木口金袋款可自選木口金顏色 <br>
                                 S size 木口金有3色選擇 <br>
                                 M／L size 木口金有4色選擇
+
                                 <table class="mt-3">
                                     <tr>
                                         <td>S size 木口金</td>
