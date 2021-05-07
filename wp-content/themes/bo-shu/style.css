@@ -450,6 +450,11 @@ footer li {
     list-style-type: disc !important;
 }
 
+.page-faq a {
+    color: #000;
+    text-decoration: underline;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
