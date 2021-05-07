@@ -184,7 +184,8 @@ get_header();
 
                                 特定產品可另+HK$60 加購可拆式斜孭皮帶，有4色選擇
 
-                                <img src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-5.jpg" alt="">
+                                <img class="mt-3"
+                                    src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-5.jpg" alt="">
                             </div>
                         </li>
 
