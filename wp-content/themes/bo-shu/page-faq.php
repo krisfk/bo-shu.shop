@@ -174,6 +174,20 @@ get_header();
                         </li>
 
 
+
+                        <li><a class="subheading-a" href="#"> 綉名服務
+
+                            </a>
+                            <div class="content-div">
+
+                                所有木口金袋已包括一條可拆式斜孭皮帶，顏色會依照所選擇的木口金顏色配搭近似顏色。 <br><br>
+
+                                特定產品可另+HK$60 加購可拆式斜孭皮帶，有4色選擇
+
+                                <img src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-5.jpg" alt="">
+                            </div>
+                        </li>
+
                     </ul>
                 </li>
             </ul>
