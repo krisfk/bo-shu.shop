@@ -438,7 +438,9 @@ footer li {
     padding: 10px;
 }
 
-.dot-ul {}
+.dot-ul {
+    margin: 0 0 0 20px !important;
+}
 
 .dot-ul li {
     list-style-type: disc !important;
