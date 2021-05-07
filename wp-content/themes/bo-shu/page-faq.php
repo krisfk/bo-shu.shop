@@ -383,6 +383,17 @@ get_header();
                                 </table>
                             </div>
                         </li>
+                        <li>
+                            <a class="subheading-a" href="#"> 關稅及稅款
+                            </a>
+                            <div class="content-div">
+                                布薯不會承擔訂單的任何關稅及稅款。 送貨期間或發貨後收取的所有費用均由客戶負責(關稅、稅費等)。 <br><br>
+
+                                Boshu is not responsible for any customs and taxes applied to your order. All fees
+                                imposed during or after shipping are the responsibility of the customer (tariffs, taxes,
+                                etc.).
+                            </div>
+                        </li>
 
 
                     </ul>
