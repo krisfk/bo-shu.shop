@@ -189,6 +189,39 @@ get_header();
                             </div>
                         </li>
 
+
+                        <li><a class="subheading-a" href="#"> bling bling 帶選擇
+
+                            </a>
+                            <div class="content-div">
+
+                                Bling Bling 帶有2色選擇 (彩色或金色) <br>
+                                孭帶顏色會依照所選布款由布薯配搭，如有特別要求請於下單時說明
+
+
+                                <img class="mt-3"
+                                    src="https://bo-shu.shop/wp-content/uploads/2021/05/custom-make-img-6.jpg" alt="">
+                            </div>
+                        </li>
+
+
+                        <li><a class="subheading-a" href="#"> 個人化訂製－修改訂單
+
+
+                            </a>
+                            <div class="content-div">
+
+                                下單前請先確認尺寸、顏色、材質等，所有訂單一經確認，恕不接受更改或退換。 <br><br>
+
+                                如訂造配有索繩產品，索繩會依照所選布款由布薯配搭，如有特別要求請於下單時說明。<br><br>
+
+                                如所選擇布款如已缺貨，布薯將會馬上聯絡客人安排更改訂單或退款。
+                            </div>
+                        </li>
+
+
+
+
                     </ul>
                 </li>
             </ul>
