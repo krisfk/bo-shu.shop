@@ -391,7 +391,8 @@ footer li {
 } */
 
 .page-faq a {
-    text-decoration: none;
+    color: #000 !important;
+    text-decoration: underline !important;
 }
 
 .page-faq ul {
@@ -448,11 +449,6 @@ footer li {
 
 .dot-ul li {
     list-style-type: disc !important;
-}
-
-.page-faq a {
-    color: #000 !important;
-    text-decoration: underline !important;
 }
 
 @media screen and (max-width: 1920px) {}
