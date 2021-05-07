@@ -581,7 +581,13 @@ get_header();
 <script type="text/javascript">
 $(function() {
 
-
+    $('.subheading-a').click(function() {
+        $('.subheading-a').removeClass('active');
+        $(this).toggleClass('active');
+        if ($(this).hasClass('active')) {
+            $(this).next('.content-div').slideDown(200);
+        }
+    })
 
 })
 </script>
