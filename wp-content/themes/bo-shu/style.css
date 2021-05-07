@@ -111,6 +111,10 @@ a:focus {
     background: #f4c285;
 }
 
+.pink-orange-txt {
+    color: #f7c285;
+}
+
 .front-page-btn {
     display: inline-block;
     border: 1px solid #fff;
