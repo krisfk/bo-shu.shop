@@ -329,6 +329,32 @@ get_header();
                             </div>
                         </li>
 
+                        <li><a class="subheading-a" href="#"> 運費 </a>
+                            <div class="content-div">
+                                <table>
+                                    <tr>
+                                        <td>地區</td>
+                                        <td>運送方法</td>
+                                        <td>運費</td>
+                                        <td>預計送貨時間</td>
+                                    </tr>
+                                    <tr>
+                                        <td>香港及澳門</td>
+                                        <td>順豐快遞</td>
+                                        <td>滿HKD HK$500免運費 <br>
+                                            (不包括Marimekko/ SOUSOU布料) <br> <br>
+
+                                            HK$500以下訂單，或所有Marimekko/ SOUSOU布料訂單將安排順豐到付 <br> <br>
+
+                                            順豐到付費用請參考: <a href="https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query"
+                                                target="_blank">https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query</a>
+                                        </td>
+                                        <td></td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </li>
+
 
                     </ul>
                 </li>
