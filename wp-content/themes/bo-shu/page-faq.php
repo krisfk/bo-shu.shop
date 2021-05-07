@@ -583,6 +583,7 @@ $(function() {
 
     $('.subheading-a').click(function() {
         $('.subheading-a').removeClass('active');
+        $('.content-div').fadeOut(0);
         $(this).toggleClass('active');
         if ($(this).hasClass('active')) {
             $(this).next('.content-div').slideDown(200);
