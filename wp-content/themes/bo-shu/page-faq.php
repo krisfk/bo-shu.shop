@@ -349,6 +349,7 @@ get_header();
                                             順豐到付費用請參考: <a href="https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query"
                                                 target="_blank">https://htm.sf-express.com/we/ow/#/hkmo/tc/price-query</a>
                                         </td>
+                                        <td>2-4 工作天</td>
                                     </tr>
                                     <tr>
                                         <td>台灣</td>
