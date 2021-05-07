@@ -391,6 +391,10 @@ footer li {
 } */
 
 .page-faq a {
+    text-decoration: none;
+}
+
+.page-faq ul li ul li a {
     color: #000 !important;
     text-decoration: underline !important;
 }
