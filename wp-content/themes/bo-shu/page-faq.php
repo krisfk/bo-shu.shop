@@ -540,7 +540,7 @@ get_header();
                 </li>
             </ul>
 
-            <div>如果有任何其他疑問，歡迎聯絡我們</div>
+            <div class="mt-4">如果有任何其他疑問，歡迎 <a href="#"> 聯絡我們</a></div>
 
 
 
