@@ -824,6 +824,8 @@ function wc_varb_price_range( $wcv_price, $product ) {
  
     return ( $wcv_min_price == $wcv_max_price ) ?
         $wcv_price :
+		        sprintf('');
+
         // sprintf('%s%s', $prefix, $wcv_price);
 }
  
