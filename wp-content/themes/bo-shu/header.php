@@ -109,7 +109,7 @@ switch ($lang_code)
 
         break;
 }
-?>
+
 
 
                 switch ($lang_code)
