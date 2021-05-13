@@ -96,7 +96,7 @@ $(function() {
     $('.wcuCurrencySwitcherWidget').fadeIn(0)
 
     $('select').addClass('form-select')
-
+    $('input[type="number"]').addClass('form-control')
 })
 </script>
 <?php do_action( 'woocommerce_after_single_product' ); ?>
