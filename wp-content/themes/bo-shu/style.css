@@ -532,6 +532,18 @@ ul.top-menu li a {
     margin: 20px 0 0 0;
 }
 
+.woocommerce div.product div.images .flex-control-thumbs li {
+    width: 20%;
+    float: left;
+    margin: 0;
+    list-style: none;
+    margin: 0 5px;
+}
+
+.woocommerce div.product div.images .flex-control-thumbs li:first-child {
+    margin: 0;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
