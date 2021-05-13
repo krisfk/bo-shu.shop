@@ -385,7 +385,7 @@ footer li {
 }
 
 .woocommerce .entry-title {
-    display: none;
+    /* display: none; */
 }
 
 .inner-container {
