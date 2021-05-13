@@ -56,7 +56,7 @@ with others.
 /* -------------------------------------------------------------------------- */
 
 a {
-    color: #000;
+    color: #000 !important;
     text-decoration: underline;
 }
 
