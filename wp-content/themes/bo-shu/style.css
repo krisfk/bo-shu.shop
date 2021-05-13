@@ -482,6 +482,7 @@ ul.top-menu {
 ul.top-menu li {
     display: inline-block;
     margin: 0 20px;
+    position: relative;
 }
 
 ul.top-menu li a {
