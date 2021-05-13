@@ -489,6 +489,10 @@ ul.top-menu li a {
     text-decoration: none;
 }
 
+#site-content {
+    min-height: 45vh;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
