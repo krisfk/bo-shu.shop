@@ -510,11 +510,7 @@ ul.top-menu li a {
     color: #000;
 }
 
-.previous-post {
-    display: none;
-}
-
-.next-post {
+.pagination-single {
     display: none;
 }
 
