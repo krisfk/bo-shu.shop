@@ -506,6 +506,10 @@ ul.top-menu li a {
     display: none;
 }
 
+.woocommerce-page ul.products li a {
+    color: #000;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
