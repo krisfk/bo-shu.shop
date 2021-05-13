@@ -402,6 +402,7 @@ footer li {
 
 .chosen-container {
     width: 100px !important;
+    display: none;
 }
 
 
