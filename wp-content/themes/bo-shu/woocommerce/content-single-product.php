@@ -87,10 +87,10 @@ $(function() {
     $('.summary.entry-summary .price').append($('.wcuCurrencySwitcherWidget'))
 
 
-    setTimeout(() => {
-        $('.woocommerce-variation-price').insertBefore('.wcuCurrencySwitcherWidget')
+    // setTimeout(() => {
+    //     $('.woocommerce-variation-price').insertBefore('.wcuCurrencySwitcherWidget')
 
-    }, 200);
+    // }, 200);
 
     $('.wcuCurrencySwitcherWidget').fadeIn(0)
 
