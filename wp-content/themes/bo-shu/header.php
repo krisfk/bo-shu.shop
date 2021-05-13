@@ -96,16 +96,16 @@ $lang_code =  ICL_LANGUAGE_CODE;
 switch ($lang_code)
 {
     case 'zh-hant':
-        $main_menu = wp_get_menu_array('main menu');
+        $main_menu = wp_get_menu_array('top menu');
 
         break;
         case 'cn':
-            $main_menu = wp_get_menu_array('main menu cn');
+            $main_menu = wp_get_menu_array('top menu cn');
 
 
         break;
             case 'en':
-                $main_menu = wp_get_menu_array('main menu en');
+                $main_menu = wp_get_menu_array('top menu en');
 
         break;
 }
