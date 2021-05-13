@@ -397,7 +397,7 @@ footer li {
     display: none;
     width: 100px !important;
     display: inline-block !important;
-    margin: 0 0 0 20px;
+    margin: 0 0 0 0px;
 }
 
 .chosen-container {
