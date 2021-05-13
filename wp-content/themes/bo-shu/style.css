@@ -553,6 +553,10 @@ ul.top-menu li a {
     /* padding-bottom: 10px; */
 }
 
+h2 {
+    font-size: 24px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
