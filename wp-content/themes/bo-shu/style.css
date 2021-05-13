@@ -481,6 +481,7 @@ ul.top-menu {
 
 ul.top-menu li {
     display: inline-block;
+    margin: 0 20px;
 }
 
 ul.top-menu li a {
