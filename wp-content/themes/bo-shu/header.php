@@ -221,7 +221,7 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
         })
 
         $('.top-menu-submenu').mouseenter(function() {
-            $(this).stop();
+            $(this).stop().fadeIn(0);
         });
 
         $('.top-menu-submenu').mouseleave(function() {
