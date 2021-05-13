@@ -806,7 +806,15 @@ function wp_get_menu_array($current_menu='Main Menu') {
 
 	return $menu;
 
+}
+//Hide "From:$X" 
+add_filter('woocommerce_get_price_html', 'lw_hide_variation_price', 10, 2); 
+function lw_hide_variation_price( $v_price, $v_product ) {  $v_product_types = array( 'variable' ); 
+if ( in_array ( $v_product->product_type, $v_product_types ) ) {         return ''; 
 } 
+// return regular price 
+return $v_price; 
+}
 
 function move_variation_price() {
     remove_action( 'woocommerce_single_variation', 'woocommerce_single_variation', 10 );
