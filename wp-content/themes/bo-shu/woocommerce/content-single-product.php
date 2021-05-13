@@ -33,7 +33,6 @@ if ( post_password_required() ) {
 ?>
 
 <div id="product-<?php the_ID(); ?>" <?php wc_product_class( '', $product ); ?>>
-    <?php echo do_shortcode('[woo-currency-switcher]')?>
 
 
     <?php
@@ -48,7 +47,10 @@ if ( post_password_required() ) {
 
     <div class="summary entry-summary">
         <h2 class="mt-3 mb-3"><?php echo get_the_title();?></h2>
+        <?php echo do_shortcode('[woo-currency-switcher]')?>
+
         <?php
+		
 		/**
 		 * Hook: woocommerce_single_product_summary.
 		 *
