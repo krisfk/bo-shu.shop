@@ -470,7 +470,12 @@ footer li {
 }
 
 .top-menu-submenu {
-    display: none;
+    display: block;
+    position: absolute;
+    top: 28px;
+    left: 0;
+    text-align: left;
+    padding: 0;
 }
 
 ul.top-menu {
