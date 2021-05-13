@@ -55,6 +55,11 @@ with others.
 /*	0. CSS Reset
 /* -------------------------------------------------------------------------- */
 
+a {
+    color: #000;
+    text-decoration: underline;
+}
+
 body {
     color: #666766;
 }
