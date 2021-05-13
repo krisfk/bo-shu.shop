@@ -193,8 +193,8 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
                 <li>
 
                     <div class="lang-div">
-                        <a href="<?php echo $langs['zh-hant']['url'];?>">繁</a><span class="sep">/</span>
-                        <span class="sep">/</span><a href="<?php echo $langs['en']['url'];?>">ENGLISH</a>
+                        <a href="<?php echo $langs['zh-hant']['url'];?>">繁</a> <span class="sep">/</span> <a
+                            href="<?php echo $langs['en']['url'];?>">ENGLISH</a>
 
                     </div>
                 </li>
