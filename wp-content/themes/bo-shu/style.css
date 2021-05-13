@@ -589,6 +589,7 @@ h2 {
 
 .woocommerce-variation-price {
     display: inline-block;
+    float: left;
 }
 
 .woocommerce div.product p.price,
