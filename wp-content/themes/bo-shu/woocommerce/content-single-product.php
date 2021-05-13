@@ -90,7 +90,7 @@ $(function() {
     setTimeout(() => {
         $('.woocommerce-variation-price').insertBefore('.wcuCurrencySwitcherWidget')
 
-    }, 500);
+    }, 200);
 
     $('.wcuCurrencySwitcherWidget').fadeIn(0)
 
