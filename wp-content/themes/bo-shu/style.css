@@ -473,6 +473,15 @@ footer li {
     display: none;
 }
 
+.top-menu ul {
+    padding: 0;
+    margin: 0;
+}
+
+.top-menu ul li {
+    display: inline-block;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
