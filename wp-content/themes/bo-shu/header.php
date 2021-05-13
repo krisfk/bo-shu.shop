@@ -53,7 +53,7 @@
         <div class="container">
 
 
-            <a href="#" class="logo-a mt-2 d-inline-block"><img
+            <a href="<?php echo get_site_url();?>" class="logo-a mt-2 d-inline-block"><img
                     src="<?php echo get_template_directory_uri().'/assets/images/logo.png';?>" alt=""></a>
 
             <table class="float-end mt-3 e-com-icon-links">
