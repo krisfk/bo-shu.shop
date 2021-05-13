@@ -393,6 +393,10 @@ footer li {
     margin: 0 auto;
 }
 
+.wcuCurrencySwitcherWidget {
+    display: none;
+}
+
 
 /* 
 .light-blue {
