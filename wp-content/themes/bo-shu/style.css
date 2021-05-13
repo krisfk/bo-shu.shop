@@ -493,6 +493,10 @@ ul.top-menu li a {
     min-height: 45vh;
 }
 
+.entry-header {
+    display: none;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
