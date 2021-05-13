@@ -514,6 +514,15 @@ ul.top-menu li a {
     display: none;
 }
 
+.woocommerce #content div.product div.images,
+.woocommerce div.product div.images,
+.woocommerce-page #content div.product div.images,
+.woocommerce-page div.product div.images {
+    float: left;
+    width: 48%;
+    max-width: 580px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
