@@ -216,7 +216,7 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
 
         $('ul.top-menu li a.level-1').mouseleave(function() {
 
-            $(this).next('.top-menu-submenu').delay(1000).fadeOut(0);
+            $(this).next('.top-menu-submenu').delay(200).fadeOut(0);
 
         })
 
