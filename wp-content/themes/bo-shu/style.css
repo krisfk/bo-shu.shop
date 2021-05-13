@@ -510,6 +510,14 @@ ul.top-menu li a {
     color: #000;
 }
 
+.previous-post {
+    display: none;
+}
+
+.next-post {
+    display: none;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
