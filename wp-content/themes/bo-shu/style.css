@@ -634,6 +634,16 @@ h2 {
     line-height: 2.4;
 }
 
+.woocommerce div.product p.price,
+.woocommerce div.product span.price {
+    color: #000;
+    font-size: 1.25em;
+}
+
+.woocommerce div.product .stock {
+    color: #95b5de;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
