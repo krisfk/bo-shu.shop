@@ -561,13 +561,6 @@ h2 {
 
 @media screen and (max-width: 1200px) {}
 
-@media (min-width: 1200px) {
-    .h2,
-    h2 {
-        font-size: 24px;
-    }
-}
-
 @media screen and (max-width: 991px) {
     .blue-border {
         width: 95%;
