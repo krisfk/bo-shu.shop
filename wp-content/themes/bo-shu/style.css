@@ -528,6 +528,10 @@ ul.top-menu li a {
     width: 100%;
 }
 
+.woocommerce div.product div.images .flex-control-thumbs {
+    margin: 20px 0 0 0;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
