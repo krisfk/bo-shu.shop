@@ -209,24 +209,26 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
     <script type="text/javascript">
     $(function() {
 
-                $('ul.top-menu li a.level-1').mouseenter(function() {
+        $('ul.top-menu li a.level-1').mouseenter(function() {
 
-                    $(this).next('.top-menu-submenu').fadeIn(0);
-                })
+            $(this).next('.top-menu-submenu').fadeIn(0);
+        })
 
-                $('ul.top-menu li a.level-1').mouseleave(function() {
+        $('ul.top-menu li a.level-1').mouseleave(function() {
 
-                    $(this).next('.top-menu-submenu').delay(200).fadeOut(0);
+            $(this).next('.top-menu-submenu').delay(200).fadeOut(0);
 
-                })
+        })
 
-                $('.top-menu-submenu').mouseenter(function() {
-                    $(this).stop();
-                });
-                $('.top-menu-submenu').mouseleave(function() {
-                    $('.top-menu-submenu').fadeOut(0)
+        $('.top-menu-submenu').mouseenter(function() {
+            $(this).stop();
+        });
 
-                })
+        $('.top-menu-submenu').mouseleave(function() {
+            $('.top-menu-submenu').fadeOut(0);
+
+        });
+    })
     </script>
     <?php
 		// Output the menu modal.
