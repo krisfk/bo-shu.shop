@@ -45,7 +45,7 @@ if ( post_password_required() ) {
 	?>
 
     <div class="summary entry-summary">
-        <h2><?php echo get_the_title();?></h2>
+        <h2 class="mt-3 mb-3"><?php echo get_the_title();?></h2>
         <?php
 		/**
 		 * Hook: woocommerce_single_product_summary.
