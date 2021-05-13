@@ -473,12 +473,12 @@ footer li {
     display: none;
 }
 
-.top-menu ul {
+ul.top-menu {
     padding: 0;
     margin: 0;
 }
 
-.top-menu ul li {
+ul.top-menu li {
     display: inline-block;
 }
 
