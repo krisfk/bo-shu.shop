@@ -397,6 +397,10 @@ footer li {
     display: none;
 }
 
+.chosen-container {
+    width: 100px !important;
+}
+
 
 /* 
 .light-blue {
