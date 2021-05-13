@@ -86,7 +86,7 @@
             <ul class="top-menu">
 
                 <?php
-
+echo 11;
 
 if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
 $lang_code =  ICL_LANGUAGE_CODE;
