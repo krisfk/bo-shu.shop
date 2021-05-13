@@ -605,6 +605,7 @@ h2 {
 
 .woocommerce-variation.single_variation {
     margin: 0 0 30px 0;
+    float: left;
 }
 
 @media screen and (max-width: 1920px) {}
