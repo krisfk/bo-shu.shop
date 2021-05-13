@@ -543,7 +543,11 @@ ul.top-menu li a {
 }
 
 .woocommerce div.product div.images .flex-control-thumbs li:first-child {
-    margin-left: 0;
+    padding-left: 0;
+}
+
+.woocommerce div.product div.images .flex-control-thumbs li:last-child {
+    padding-right: 0;
 }
 
 @media screen and (max-width: 1920px) {}
