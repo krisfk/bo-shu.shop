@@ -82,15 +82,104 @@
 
             </table>
 
-            <!-- <ul class="menu">
-                <li><a href="#">現貨產品</a></li>
-                <li><a href="#">訂製產品</a></li>
-                <li><a href="#">布款選擇</a></li>
-                <li><a href="#">圖片庫</a></li>
-                <li><a href="#">最新資訊</a></li>
-                <li><a href="<?php echo get_site_url().'/about-us';?>">關於我們</a></li>
-                <li><a href="#">VIP會員計劃</a></li>
-            </ul> -->
+
+            <ul class="top-menu">
+
+                <?php
+
+
+if ( defined( 'ICL_LANGUAGE_CODE' ) ) {
+$lang_code =  ICL_LANGUAGE_CODE;
+}
+
+switch ($lang_code)
+{
+case 'zh-hant':
+    $top_menu = $main_menu;
+    // $top_menu = wp_get_menu_array('top menu');
+
+    break;
+    case 'cn':
+        $top_menu =$main_menu;
+
+
+    break;
+        case 'en':
+            $top_menu = $main_menu;
+
+    break;
+}
+
+
+foreach ($top_menu as $menu_item) {
+
+$url = $menu_item['url'];
+$title = $menu_item['title'];
+$temp_arr=explode(get_site_url(),$url);
+$slug=str_replace('/en/','',$temp_arr[1]);
+$slug=str_replace('/cn/','',$slug);
+$slug=str_replace('/','',$slug);
+
+
+if(count($menu_item['children']))
+{
+    $sub_slugs='';
+    foreach ($menu_item['children'] as $sub_menu_item) 
+    {
+        $sub_url = $sub_menu_item['url'];
+        $sub_temp_arr=explode(get_site_url(),$sub_url);
+
+        $sub_slug=str_replace('/en/','',$sub_temp_arr[1]);
+        $sub_slug=str_replace('/cn/','',$sub_slug);
+        $sub_slug=str_replace('/','',$sub_slug);
+
+        $sub_slugs.=$sub_slug.' ';
+    }
+    echo '<li><a class="level-1 '.$sub_slugs.'" href="'.$url.'">'.$title.'</a>';
+
+ 
+    echo '<ul class="top-menu-submenu">';
+    foreach ($menu_item['children'] as $sub_menu_item) 
+    {
+        $sub_url = $sub_menu_item['url'];
+        $sub_title = $sub_menu_item['title'];
+        $sub_temp_arr=explode(get_site_url(),$sub_url);
+        $sub_slug=str_replace('/en/','',$sub_temp_arr[1]);
+        $sub_slug=str_replace('/cn/','',$sub_slug);
+        $sub_slug=str_replace('/','',$sub_slug);
+        echo'<li><a class="'.$sub_slug.'" href="'.$sub_url.'">'.$sub_title.'</a></li>';
+    }
+    echo '</ul>';
+
+}
+else
+{
+echo '<li><a class="level-1 '.$slug.'" href="'.$url.'">'.$title.'</a>';
+
+}
+echo'</li>';
+
+
+}
+
+
+?>
+
+                <?php
+
+$langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to=');
+?>
+                <li>
+
+                    <div class="lang-div">
+                        <a href="<?php echo $langs['zh-hant']['url'];?>">繁</a><span class="sep">/</span><a
+                            href="<?php echo $langs['cn']['url'];?>">簡</a>
+                        <span class="sep">/</span><a href="<?php echo $langs['en']['url'];?>">ENGLISH</a>
+
+                    </div>
+                </li>
+
+            </ul>
 
 
         </div>
