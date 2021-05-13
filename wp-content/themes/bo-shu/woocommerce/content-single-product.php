@@ -80,7 +80,14 @@ if ( post_password_required() ) {
 </div>
 <script type="text/javascript">
 $(function() {
+
+    $('.summary.entry-summary .price').append($('.single_variation_wrap'))
+
+
     $('.summary.entry-summary .price').append($('.wcuCurrencySwitcherWidget'))
+
+
+
     $('.wcuCurrencySwitcherWidget').fadeIn(0)
 
 
