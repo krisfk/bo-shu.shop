@@ -824,7 +824,7 @@ function wc_varb_price_range( $wcv_price, $product ) {
  
     return ( $wcv_min_price == $wcv_max_price ) ?
         $wcv_price :
-        sprintf('%s%s', $prefix, $wcv_price);
+        // sprintf('%s%s', $prefix, $wcv_price);
 }
  
 add_filter( 'woocommerce_variable_sale_price_html', 'wc_varb_price_range', 10, 2 );
