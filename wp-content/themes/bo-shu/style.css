@@ -469,6 +469,10 @@ footer li {
     list-style-type: disc !important;
 }
 
+.top-menu-submenu {
+    display: none;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
