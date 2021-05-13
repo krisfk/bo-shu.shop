@@ -476,6 +476,7 @@ footer li {
 ul.top-menu {
     padding: 0;
     margin: 0;
+    text-align: center;
 }
 
 ul.top-menu li {
