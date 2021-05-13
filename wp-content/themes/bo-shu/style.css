@@ -470,7 +470,7 @@ footer li {
 }
 
 .top-menu-submenu {
-    display: block;
+    display: none;
     position: absolute;
     top: 28px;
     left: 0;
