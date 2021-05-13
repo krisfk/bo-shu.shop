@@ -395,6 +395,7 @@ footer li {
 
 .wcuCurrencySwitcherWidget {
     display: none;
+    width: 100px !important;
 }
 
 .chosen-container {
