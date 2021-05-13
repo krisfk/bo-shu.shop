@@ -644,6 +644,17 @@ h2 {
     color: #95b5de;
 }
 
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+    background-color: #95b5de;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 23px;
+    margin: 0 0 0 10px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
