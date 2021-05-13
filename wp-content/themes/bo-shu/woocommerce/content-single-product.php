@@ -95,7 +95,7 @@ $(function() {
     $('.wcuCurrencySwitcherWidget').insertAfter($('.woocommerce-variation.single_variation'))
     $('.wcuCurrencySwitcherWidget').fadeIn(0)
 
-    $('select').addClass('form-control')
+    $('select').addClass('form-select')
 
 })
 </script>
