@@ -525,6 +525,7 @@ ul.top-menu li a {
 
 .related.products {
     display: inline-block;
+    width: 100%;
 }
 
 @media screen and (max-width: 1920px) {}
