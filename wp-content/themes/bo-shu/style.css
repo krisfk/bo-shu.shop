@@ -523,6 +523,10 @@ ul.top-menu li a {
     max-width: 580px;
 }
 
+.related.products {
+    display: inline-block;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
