@@ -92,6 +92,7 @@ $(function() {
 
     // }, 200);
 
+    $('.wcuCurrencySwitcherWidget').insertAfter($('.woocommerce-variation.single_variation'))
     $('.wcuCurrencySwitcherWidget').fadeIn(0)
 
 
