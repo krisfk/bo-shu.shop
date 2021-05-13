@@ -83,6 +83,7 @@ $(function() {
 
     // $('.summary.entry-summary .price').append($('.single_variation_wrap'))
 
+    $('.single_variation_wrap').insertBefore('.wcuCurrencySwitcherWidget')
 
     $('.summary.entry-summary .price').append($('.wcuCurrencySwitcherWidget'))
 
