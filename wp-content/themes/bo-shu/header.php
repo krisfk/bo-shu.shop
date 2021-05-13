@@ -206,6 +206,15 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
 
     </header><!-- #site-header -->
 
+    <script type="text/javascript">
+    $(function() {
+
+        $('ul.top-menu li a.level-1').mouseenter(function() {
+
+            $(this).next('.top-menu-submenu').fadeIn(0);
+        })
+    })
+    </script>
     <?php
 		// Output the menu modal.
 		// get_template_part( 'template-parts/modal-menu' );
