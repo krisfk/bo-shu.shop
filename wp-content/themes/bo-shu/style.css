@@ -591,6 +591,16 @@ h2 {
     display: inline-block;
 }
 
+.woocommerce div.product form.cart .variations {
+    margin-bottom: 0px;
+    border: 0;
+    width: 100%;
+}
+
+.woocommerce-variation.single_variation {
+    margin: 0 0 30px 0;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
