@@ -806,11 +806,4 @@ function wp_get_menu_array($current_menu='Main Menu') {
 
 	return $menu;
 
-}
-
-add_filter( 'woocommerce_template_single_price', 'filter_woocommerce_template_single_price', 10, 2 ); 
-function filter_woocommerce_template_single_price( $wc_price, $product ) { 
-    // some code 
-	echo 4324324;
-    return $wc_price; 
-}; 
+} 
