@@ -452,11 +452,11 @@ footer li {
     max-width: 330px;
 }
 
-.page-faq table {
+.page-faq .faq-inner-container table {
     border: 1px solid #000;
 }
 
-.page-faq table td {
+.page-faq .faq-inner-container table td {
     border: 1px solid #000;
     padding: 10px;
 }

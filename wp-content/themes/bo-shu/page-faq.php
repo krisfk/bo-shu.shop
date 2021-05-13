@@ -23,7 +23,7 @@ get_header();
     <div class="container">
 
 
-        <div class="inner-container">
+        <div class="inner-container faq-inner-container">
 
 
             <div class="mt-5">
