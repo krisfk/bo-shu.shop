@@ -482,6 +482,11 @@ ul.top-menu li {
     display: inline-block;
 }
 
+ul.top-menu li a {
+    color: #000;
+    text-decoration: none;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
