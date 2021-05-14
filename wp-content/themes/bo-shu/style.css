@@ -691,6 +691,11 @@ h2 {
     color: #fff;
 }
 
+.woocommerce .products ul li,
+.woocommerce ul.products li a {
+    text-decoration: none;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
