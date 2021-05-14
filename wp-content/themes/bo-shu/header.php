@@ -58,9 +58,11 @@
 
             <table class="float-end mt-3 e-com-icon-links">
                 <tr>
-                    <td class="pe-2"><img class="e-com-icon"
-                            src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
-                        $0.00
+                    <td class="pe-2">
+                        <a href="/cart/">
+                            <img class="e-com-icon"
+                                src="<?php echo get_template_directory_uri().'/assets/images/cart-icon.png';?>" alt="">
+                            $0.00</a>
                     </td>
                     <td class="pe-2"><img class="e-com-icon"
                             src="<?php echo get_template_directory_uri().'/assets/images/member-icon.png';?>" alt="">
