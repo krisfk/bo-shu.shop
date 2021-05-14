@@ -731,6 +731,14 @@ h2 {
     color: #95b5de;
 }
 
+.woocommerce-info {
+    border-top-color: #95b5de;
+}
+
+.woocommerce-info::before {
+    color: #95b5de;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
