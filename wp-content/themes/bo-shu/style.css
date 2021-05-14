@@ -706,7 +706,7 @@ h2 {
 }
 
 .woocommerce div.product .woocommerce-tabs ul.tabs li a {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .woocommerce-Tabs-panel h2 {
