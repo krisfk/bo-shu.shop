@@ -705,6 +705,10 @@ h2 {
     margin: 0 0 20px 0;
 }
 
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    text-decoration: none;
+}
+
 .woocommerce-Tabs-panel h2 {
     font-size: 20px;
 }
