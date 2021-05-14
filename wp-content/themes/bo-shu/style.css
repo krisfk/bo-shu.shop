@@ -798,6 +798,11 @@ h2 {
     color: #000;
 }
 
+.woocommerce td.product-name .wc-item-meta .wc-item-meta-label {
+    display: block;
+    width: 100%;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
