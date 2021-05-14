@@ -55,9 +55,9 @@ with others.
 /*	0. CSS Reset
 /* -------------------------------------------------------------------------- */
 
-a {
-    /* color: #000 !important; */
-    /* text-decoration: underline; */
+#site-content a {
+    color: #000 !important;
+    text-decoration: underline;
 }
 
 body {
