@@ -699,6 +699,8 @@ h2 {
 .woocommerce ul.products li.product,
 .woocommerce-page ul.products li.product a {
     text-decoration: none !important;
+    text-align: center;
+    display: inline-block;
 }
 
 .woocommerce ul.products .button.product_type_simple.add_to_cart_button {
