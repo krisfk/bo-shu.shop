@@ -721,6 +721,11 @@ h2 {
     border-top-color: #95b5dd;
 }
 
+.woocommerce-message::before {
+    content: '\e015';
+    color: #95b5de;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
