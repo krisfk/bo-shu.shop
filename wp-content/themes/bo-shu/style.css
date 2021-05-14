@@ -759,6 +759,10 @@ h2 {
     border: 0;
 }
 
+.product_meta a {
+    color: #000;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
