@@ -92,14 +92,14 @@ a:focus {
     border: none !important;
 }
 
-.e-com-icon-links table td {
+.e-com-icon-links td {
     border: none !important;
     padding: 0 !important;
 }
 
-.e-com-icon-links table td a {
-    text-decoration: none !important;
-    color: #000 !important;
+.e-com-icon-links td a {
+    text-decoration: none;
+    color: #000;
 }
 
 .menu {
