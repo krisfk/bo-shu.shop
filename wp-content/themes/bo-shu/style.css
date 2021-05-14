@@ -717,6 +717,10 @@ h2 {
     text-align: left;
 }
 
+.woocommerce-message {
+    border-top-color: #95b5dd;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
