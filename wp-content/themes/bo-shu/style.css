@@ -721,7 +721,7 @@ h2 {
 
 .woocommerce ul.products li.product h2,
 .woocommerce-page ul.products li.product h2 {
-    text-align: left;
+    text-align: center;
 }
 
 .woocommerce-message {
