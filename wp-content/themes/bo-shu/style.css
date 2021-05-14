@@ -739,6 +739,12 @@ h2 {
     color: #95b5de;
 }
 
+.woocommerce a.remove:hover {
+    color: #fff !important;
+    background: #f4c284;
+    line-height: 21px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
