@@ -683,6 +683,14 @@ h2 {
     background: #95b5dd;
 }
 
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+    background-color: #95b5dd;
+    color: #fff;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
