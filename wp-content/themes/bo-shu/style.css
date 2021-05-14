@@ -723,6 +723,7 @@ h2 {
 .woocommerce-page ul.products li.product h2 {
     text-align: center;
     font-size: 14px;
+    color: #999;
 }
 
 .woocommerce-message {
