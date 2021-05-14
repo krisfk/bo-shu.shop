@@ -678,6 +678,11 @@ h2 {
     display: none;
 }
 
+.wcpa_form_outer .wcpa_form_item .wcpa_checkbox input[type='checkbox']:checked+label .wcpa_check {
+    border: 2px solid #95b5dd;
+    background: #95b5dd;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
