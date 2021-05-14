@@ -231,6 +231,7 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
 
         });
         $('select').addClass('form-select')
+        $('input[type="number"]').addClass('form-control')
 
 
     })
