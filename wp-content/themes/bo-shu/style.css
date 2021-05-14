@@ -696,9 +696,8 @@ h2 {
     text-decoration: none !important;
 }
 
-.woocommerce .products ul,
 .woocommerce ul.products .button.product_type_simple.add_to_cart_button {
-    /* display: none; */
+    display: none;
 }
 
 #site-header {
