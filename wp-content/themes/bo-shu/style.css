@@ -691,8 +691,8 @@ h2 {
     color: #fff;
 }
 
-.woocommerce .products ul li,
-.woocommerce ul.products li a {
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product a {
     text-decoration: none;
 }
 
