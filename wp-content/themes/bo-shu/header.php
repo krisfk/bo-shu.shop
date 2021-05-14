@@ -230,6 +230,9 @@ $langs= icl_get_languages('skip_missing=0&orderby=custom&order=asc&link_empty_to
             $('.top-menu-submenu').fadeOut(0);
 
         });
+        $('select').addClass('form-select')
+
+
     })
     </script>
     <?php
