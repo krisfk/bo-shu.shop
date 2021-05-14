@@ -170,7 +170,7 @@ h3.home-color-heading {
 
 .latest-news-div ul li a {
     color: #666766;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .learn-more-btn-wrapper {
