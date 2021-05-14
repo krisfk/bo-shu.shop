@@ -780,6 +780,20 @@ h2 {
     text-decoration: none;
 }
 
+.woocommerce-notice {
+    text-align: center;
+}
+
+.woocommerce ul.order_details {
+    margin: 0 0 3em;
+    list-style: none;
+    /* width: fit-content; */
+    display: table;
+    margin: 0 auto;
+    border: 1px solid #95b5de;
+    padding: 17px;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
