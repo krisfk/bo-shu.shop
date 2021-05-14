@@ -97,6 +97,11 @@ a:focus {
     padding: 0 !important;
 }
 
+.e-com-icon-links table td a {
+    text-decoration: none;
+    color: #000;
+}
+
 .menu {
     text-align: center;
 }
