@@ -667,6 +667,13 @@ h2 {
     margin: 0 0 10px 0;
 }
 
+.woocommerce div.product form.cart .variations select {
+    max-width: 80%;
+    min-width: 75%;
+    display: inline-block;
+    margin-right: 1em;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
