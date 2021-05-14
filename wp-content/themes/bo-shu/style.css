@@ -799,7 +799,7 @@ h2 {
 }
 
 .woocommerce td.product-name .wc-item-meta:last-child {
-    margin: 0;
+    margin: 20px 0 20px 0;
     padding: 0;
 }
 
