@@ -794,6 +794,10 @@ h2 {
     padding: 17px;
 }
 
+.woocommerce table.shop_table td a {
+    color: #000;
+}
+
 @media screen and (max-width: 1920px) {}
 
 @media screen and (max-width: 1200px) {}
