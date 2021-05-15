@@ -777,6 +777,10 @@ h2 {
     color: #000;
 }
 
+.product_meta .posted_in {
+    margin: 0 30px 0 0;
+}
+
 .woocommerce-cart-form__cart-item a {
     color: #000;
     text-decoration: none;
